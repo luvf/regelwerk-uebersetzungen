@@ -28,3 +28,33 @@ Elles sont créées et mises à jour par des membres de la communauté, pour la 
 L'exhaustivité et l'exactitude de ces versions ne sont pas vérifiées par les responsables du règlement.
 Seule la version allemande du règlement est officielle.
 Cette version est disponible [dans ce dépôt](https://github.com/JuggerGermany/Regelwerk).
+
+
+# 1 compile project
+this project use typst you can use make compile to compile the project
+
+	'make compile'
+
+for the original version
+
+	'make compile-fr' 
+
+for french version
+
+	'make compile-en' 
+
+for english version
+
+
+# 2 contribute
+Each text block is inside a dictionary with the key as the language used ("de", "en", "fr") in the variable lang 
+```
+	#let text_block_name =(
+		de: [Deutsch],
+		en: [English],
+		fr: [Francais],
+	)
+	#text_block_name.at(lang)
+```
+the last line will display the corect text.
+
