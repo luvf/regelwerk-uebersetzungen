@@ -3,11 +3,10 @@
 #let title = (
 	de :[Pompfen],
 	en :[Pompfen], 
-	fr :[Pompfen],)
-#let title=title.at(lang)
+	fr :[Pompfen],
+).at(lang)
 
-
-#let pompfen_paragraph=(
+#(
 	de:[
 		Pompfen sind die beim Jugger genutzten Sportgeräte.
 		Sie sind unterteilt in Schilde, Ketten und die vier Nahpompfen: Kurzpompfe, Langpompfe, Q-Tip und Stab.
@@ -33,6 +32,5 @@
 		Tous les pompfen doivent être vérifiés avant chaque match afin de s'assurer de leur conformité aux règles en vigueur.
 		Si un pompfen devient dangereux ou non conforme pendant un match, il doit être immédiatement retiré du jeu.
 	],
-)
+).at(lang)
 
-#pompfen_paragraph.at(lang)

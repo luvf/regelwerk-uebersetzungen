@@ -211,9 +211,37 @@
 #counter(page).update(1)
 #introduction_text
 
+#let play_field = (
+  de :[Spielfeld], en :[play_field], fr :[Terrain de jeu],
+).at(lang)
+
+#let pompfe_type = (
+  de :[Pompfenarten], en :[Pompfe type], fr :[types de pomfen],
+).at(lang)
+
+#let teams_and_material = (
+  de :[Teams und Ausrüstung], en :[Teams and equipment], fr :[Équipes et équipements],
+).at(lang)
+
+#let gameplay = (
+  de :[Spielablauf], en :[Gameplay], fr :[Description du Jeu],
+).at(lang)
+
+#let end_round = (
+  de :[Beenden eines Spielzugs], en :[Ending a Point], fr :[Arreter un Point],
+).at(lang)
+
+#let game_rules = (
+  de :[Spielregeln], en :[todo], fr :[todo],
+).at(lang)
 
 
-= Spielfeld
+#let game_staff = (
+  de :[Spielhelfer\*innen], en :[Gamin staff], fr :[Personel de jeu],
+).at(lang)
+
+
+= #play_field
 == #jugg_title
 #jugg_text
 == #mal_title
@@ -236,7 +264,7 @@
 #stechspitze_text
 
 #pagebreak()
-== Pompfenarten
+== #pompfe_type
 === #kurzpompfe_title
 #kurzpompfe_text
 === #langpompfe_title
@@ -251,7 +279,7 @@
 #kette_text
 #align(left)[
   #set par(justify: false)
-  = Teams und Ausrüstung
+  = #teams_and_material
 ]
 == #zusammensetzung_title
 #zusammensetzung_text
@@ -260,7 +288,10 @@
 == #kleidung_title
 #kleidung_text
 
-= Spielablauf
+#align(left)[
+  #set par(justify: false)
+  = #gameplay
+]
 == #spielzug_title
 #spielzug_text
 === #spiel_nach_steinen_title
@@ -279,13 +310,13 @@
 === #fehlstart_title
 #fehlstart_text
 #pagebreak()
-== Beenden eines Spielzugs
+== #end_round
 === #punkten_title
 #punkten_text
 === #abbruch_title
 #abbruch_text
 
-= Spielregeln
+= #game_rules
 == #sicherheit_title
 #sicherheit_text
 === #sicherer_umgang_title
@@ -340,7 +371,7 @@
 == #jugg_platzieren_title
 #jugg_platzieren_text
 
-= Spielhelfer\*innen
+= #game_staff
 #spielhelferinnen_text
 == #schiedsrichterinnen_title
 #schiedsrichterinnen_text
@@ -356,10 +387,15 @@
 #[]<end_of_content>
 
 
+#let appendix = (
+  de :[Anhang], en :[Appendix], fr :[Annexes],
+).at(lang)
+
+
 #set page(footer: page_footer(<end_of_document>), numbering: "i")
 #counter(heading).update(0)
 #set heading(numbering: "A.1")
-= Anhang
+= #appendix
 #counter(page).update(1)
 == #masstabelle_title
 #masstabelle_text

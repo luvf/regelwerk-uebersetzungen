@@ -1,11 +1,26 @@
-#let title = "Inaktive Pompfer*innen"
+#let lang = sys.inputs.at("lang", default: "de")
 
-Inaktive Pompfer*innen sollten die Pompfen, die sie führen, flach auf den Boden legen.
-Sie können andere Feldspieler*innen nicht gültig treffen oder pinnen.
-Schilde dürfen stattdessen mit einem beliebigen Teil am Boden gehalten werden.
-Das hintere Ende einer Kette darf den Boden verlassen.\
-Wenn ihre Pompfe von einer Kette umwickelt ist oder ihre Kette eine Pompfe umwickelt hat, sollten sie dabei behilflich sein, die Pompfen zu entwickeln oder müssen sie loslassen, um den*die andere*n Feldspieler*in beim Abwickeln nicht zu behindern.
-Haben sie ihre Pompfe verloren, ist es ihnen verboten, diese wiederzuholen.
+#let title = (
+  de :[Inaktive Pompfer*innen],
+  en :[TODO], 
+  fr :[Enforceurs inactifs],
+).at(lang)
 
-Inaktive Pompfer*innen werden aktiv, wenn sie den Jugg bewegen.
+#(
+  de :[
+    Inaktive Pompfer*innen sollten die Pompfen, die sie führen, flach auf den Boden legen.
+    Sie können andere Feldspieler*innen nicht gültig treffen oder pinnen.
+    Schilde dürfen stattdessen mit einem beliebigen Teil am Boden gehalten werden.
+    Das hintere Ende einer Kette darf den Boden verlassen.\
+    Wenn ihre Pompfe von einer Kette umwickelt ist oder ihre Kette eine Pompfe umwickelt hat, sollten sie dabei behilflich sein, die Pompfen zu entwickeln oder müssen sie loslassen, um den*die andere*n Feldspieler*in beim Abwickeln nicht zu behindern.
+    Haben sie ihre Pompfe verloren, ist es ihnen verboten, diese wiederzuholen.
 
+    Inaktive Pompfer*innen werden aktiv, wenn sie den Jugg bewegen.
+  ],
+  en :[
+    TODO
+  ], 
+  fr :[
+    TODO
+  ],
+).at(lang)

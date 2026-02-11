@@ -1,13 +1,31 @@
-#let title = "Gültig platzierte Treffer"
+#let lang = sys.inputs.at("lang", default: "de")
 
-Ein Treffer ist gültig platziert, wenn keine der folgenden Bedingungen erfüllt ist:
+#let title = (
+  de :[Gültig platzierte Treffer],
+  en :[TODO], 
+  fr :[Touche Placé Correctement],
+).at(lang)
 
-- Der*die getroffene Feldspieler*in ist inaktiv.
-- Der Treffer erfolgt nur außerhalb der Trefferzone.
-- Ein*e Feldspieler*in wird in einer einzigen Bewegung der Pompfe erst an der Kopfzone und dann an der Trefferzone getroffen.
+#(
+  de :[
+    Ein Treffer ist gültig platziert, wenn keine der folgenden Bedingungen erfüllt ist:
 
-Wenn eine Spieler*in in einer einzigen Bewegung erst an der Trefferzone und dann an der Kopfzone
-getroffen wird, ist der Treffer gültig platziert.
+    - Der*die getroffene Feldspieler*in ist inaktiv.
+    - Der Treffer erfolgt nur außerhalb der Trefferzone.
+    - Ein*e Feldspieler*in wird in einer einzigen Bewegung der Pompfe erst an der Kopfzone und dann an der Trefferzone getroffen.
+
+    Wenn eine Spieler*in in einer einzigen Bewegung erst an der Trefferzone und dann an der Kopfzone
+    getroffen wird, ist der Treffer gültig platziert.
+  ],
+  en :[
+    TODO
+  ], 
+  fr :[
+    TODO
+  ],
+).at(lang)
+
+
 
 #figure(
   image("/typst/images/bueste_kopf.jpg", height: 10cm),

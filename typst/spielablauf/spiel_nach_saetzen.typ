@@ -1,6 +1,23 @@
-#let title = "Spiel nach Sätzen"
+#let lang = sys.inputs.at("lang", default: "de")
 
-Ziel bei einem Spiel nach Sätzen ist es, mit dem eigenen Team eine festgelegte Anzahl an Sätzen mit einer festgelegten Anzahl an Punkten zu gewinnen.
-Im Allgemeinen setzt sich ein Spiel nach Sätzen aus *2~Gewinnsätzen* mit je *5~Gewinnpunkten* zusammen.
-Zwischen den Sätzen gibt es eine Pause, in der die Teams die Seiten wechseln.
-Das Team, das zuerst die festgelegte Anzahl an Sätzen gewonnen hat, gewinnt das Spiel.
+#let title = (
+  de :[Spiel nach Sätzen],
+  en :[TODO], 
+  fr :[Match en sets],
+).at(lang)
+
+#(
+  de :[
+    Ziel bei einem Spiel nach Sätzen ist es, mit dem eigenen Team eine festgelegte Anzahl an Sätzen mit einer festgelegten Anzahl an Punkten zu gewinnen.
+  Im Allgemeinen setzt sich ein Spiel nach Sätzen aus *2~Gewinnsätzen* mit je *5~Gewinnpunkten* zusammen.
+  Zwischen den Sätzen gibt es eine Pause, in der die Teams die Seiten wechseln.
+  Das Team, das zuerst die festgelegte Anzahl an Sätzen gewonnen hat, gewinnt das Spiel.
+
+  ],
+  en :[
+    TODO
+  ], 
+  fr :[
+    TODO
+  ],
+).at(lang)

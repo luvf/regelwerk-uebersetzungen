@@ -1,9 +1,26 @@
-#let title = "Nahpompfen"
+#let lang = sys.inputs.at("lang", default: "de")
 
-Nahpompfen setzen sich aus Griffflächen und rund gepolsterten Schlagflächen zusammen.
-Sie haben keine stilisierten Schwertklingen oder Ähnliches.
-Die maxi-?male Reichweite einer Nahpompfe ist die maximale Summe der Längen ihrer (vorderen) Grifffläche und einer dazu angrenzenden Schlagfläche.
+#let title = (
+  de :[Nahpompfen],
+  en :[TODO], 
+  fr :[Pomfe],
+).at(lang)
 
-Nahpompfen bestehen aus einem Kernstab und angemessenen Polsterungen.
-Um Verletzungen vorzubeugen, müssen Kernstäbe, die leicht splittern, mit einem nichtsplitternden, durchstechsicheren, flexiblen Material umhüllt werden.
-Der Kernstab darf das Ende der Schlagfläche bei angemessener Krafteinwirkung nicht durchstechen.
+#(
+  de :[
+    Nahpompfen setzen sich aus Griffflächen und rund gepolsterten Schlagflächen zusammen.
+    Sie haben keine stilisierten Schwertklingen oder Ähnliches.
+    Die maxi-?male Reichweite einer Nahpompfe ist die maximale Summe der Längen ihrer (vorderen) Grifffläche und einer dazu angrenzenden Schlagfläche.
+
+    Nahpompfen bestehen aus einem Kernstab und angemessenen Polsterungen.
+    Um Verletzungen vorzubeugen, müssen Kernstäbe, die leicht splittern, mit einem nichtsplitternden, durchstechsicheren, flexiblen Material umhüllt werden.
+    Der Kernstab darf das Ende der Schlagfläche bei angemessener Krafteinwirkung nicht durchstechen.
+  ],
+  en :[TODO
+
+  ], 
+  fr :[TODO
+
+  ],
+).at(lang)
+

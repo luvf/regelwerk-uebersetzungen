@@ -1,12 +1,10 @@
 #let lang = sys.inputs.at("lang", default: "de")
 
-#let title = "Übersicht: Schlüsselbegriffe"
 #let title = (
   de :[Übersicht: Schlüsselbegriffe],
   en :[Overview: Key terms],
   fr :[Vue d'ensemble: Termes clés],
-)
-#let title = title.at(lang)
+).at(lang)
 
 #show table.cell.where(y: 0): strong
 #set table.cell(align: left + horizon)
@@ -28,7 +26,7 @@
     "Fonction",
     "Exemple",
   ),
-)
+).at(lang)
 
 #let table_allowed = (
   can :(
@@ -87,7 +85,7 @@
 
 
 #table(
-  table_header.at(lang),
+  table_header,
   table_allowed.at("can").at("keyword").at(lang),
   table_allowed.at("can").at("function").at(lang),
   table_allowed.at("can").at("example").at(lang),
@@ -160,7 +158,7 @@
 
 
 #table(
-  table_header.at(lang),
+  table_header,
   table_not_allowed.at("not_have_to").at("keyword").at(lang),
   table_not_allowed.at("not_have_to").at("function").at(lang),
   table_not_allowed.at("not_have_to").at("example").at(lang),
@@ -217,7 +215,7 @@
 
 
 #table(
-  table_header.at(lang),
+  table_header,
   table_possibility.at("can").at("keyword").at(lang),
   table_possibility.at("can").at("function").at(lang),
   table_possibility.at("can").at("example").at(lang),
@@ -336,7 +334,7 @@
 
 
 #table(
-  table_header.at(lang),
+  table_header,
   table_misc.at("be").at("keyword").at(lang),
   table_misc.at("be").at("function").at(lang),
   table_misc.at("be").at("example").at(lang),

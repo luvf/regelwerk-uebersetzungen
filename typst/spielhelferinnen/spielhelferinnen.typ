@@ -1,4 +1,20 @@
+#let lang = sys.inputs.at("lang", default: "de")
 
-Um einen reibungslosen Spielablauf zu gewährleisten, wird jedes Juggerspiel von mindestens einem*einer Spielhelfer*in begleitet.
-Die Spielhelfer*innen erfüllen die Aufgaben von Schiedsrichter*innen, Steine- und Punktezähler*innen.
-Falls der Jugg aus dem Spielfeld bewegt wird, legen die Spielhelfer*innen ihn an die Stelle der Spielfeldbegrenzung, an der er das Spielfeld verlassen hat, es sei denn ein*e Läufer*in kommt ihnen zuvor.
+
+#(
+  de :[
+    Um einen reibungslosen Spielablauf zu gewährleisten, wird jedes Juggerspiel von mindestens einem*einer Spielhelfer*in begleitet.
+	Die Spielhelfer*innen erfüllen die Aufgaben von Schiedsrichter*innen, Steine- und Punktezähler*innen.
+	Falls der Jugg aus dem Spielfeld bewegt wird, legen die Spielhelfer*innen ihn an die Stelle der Spielfeldbegrenzung, an der er das Spielfeld verlassen hat, es sei denn ein*e Läufer*in kommt ihnen zuvor.
+  ],
+  en :[
+    TODO
+  ], 
+  fr :[
+    TODO
+  ],
+).at(lang)
+
+
+
+

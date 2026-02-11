@@ -70,8 +70,8 @@ CC 2025 Deutscher Jugger Sportverband \
 		Cette edition (13. Ausgabe 2026):
 		Helene Glöckner, Mario Treiber und Max Vogel\
 		Traduction Francaise : Luca Veyrin-Foorrer],
-)
-#authors.at(lang)
+).at(lang)
+#authors
 
 #align(left)[#image("images/by-nc-nd.svg", width: 3cm)]
 #pagebreak()
@@ -106,5 +106,5 @@ CC 2025 Deutscher Jugger Sportverband \
 
 		Les règles suivantes utilisent un langage inclusif, avec un point médian (·) pour tenir compte de la diversité des genres.
 	],
-)
-#note.at(lang)
+).at(lang)
+#note
