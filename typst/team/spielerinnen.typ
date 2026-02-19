@@ -3,8 +3,7 @@
 #let title = (
   de :[Feldspieler*innen eines Teams],
   en :[TODO], 
-  fr :[Joueur·euse·s de Champ d'une équipe
-],
+  fr :[Joueur·euse·s],
 ).at(lang)
 
 #(
@@ -32,7 +31,24 @@
     TODO
   ], 
   fr :[
-    TODO
+    Les joueur·euse·s d'une équipe sont divisés en coureurs (Qwiks) et en pompfeur·euse·s.
+    Les coureurs ne portent pas de pompfe; ce sont les seuls joueurs autorisés à porter, lancer et placer le Jugg.
+    Pendant leur tour, les pompfeur·euse·s portent les pompfen qu'ils utilisent pour entrer sur le terrain.
+
+    Un pompfeur·euse doit porter soit:
+    - une chaine,
+    - un bâton,
+    - un pompfe long,
+    - un coton-tige,
+    - deux pompfen court,
+    - un pompfe court et un bouclier.
+    Les pompfen portés par les pompfeur·euse·s peuvent changer pendant un tour que pour remplacer un pompfe endommagée ou non conforme.
+    Un pompfeur·euse portant une chaine est un joueur de chaine.
+    Tous les autres pompfeur·euse·s sont des enforceur·euse·s.
+
+    Dans une équipe, il ne peut y avoir qu'un·e seul coureur·euse.
+    Dans une équipe, il ne peut y avoir qu'un·e seul joueur·euse de chaine.
+    Les autres joueur·euse·s doivent être des enforceur·euse·s.
   ],
 ).at(lang)
 

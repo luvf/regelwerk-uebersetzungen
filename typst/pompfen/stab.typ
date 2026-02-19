@@ -3,7 +3,7 @@
 #let title = (
   de :[Stab],
   en :[Staff], 
-  fr :[Batton],
+  fr :[Bâton],
 ).at(lang)
 
 #(
@@ -24,10 +24,30 @@
     Die Manschette ist weiterhin #strong[1_cm] dicker als die vordere Grifffläche.
   ],
   en :[TODO], 
-  fr :[TODO],
+  fr :[
+    Le bâton se compose de deux poignées, d'un manchon de séparation et d'une surface de frappe.
+    Les deux poignées sont situées à l'arrière du bâton et séparées par le manchon.
+    La poignée arrière se trouve entre le pommeau et le manchon, et la poignée avant entre le manchon et la surface de frappe.
+    La bague doit clairement délimiter la portée maximale du bâton et être plus épaisse d'au moins 1 cm que la poignée avant.
+    Comme toutes les parties du bâton, le manchon ne doit présenter aucune arête vive.
+    La longueur maximale du bâton est de #strong[180_cm].
+    La portée maximale du bâton est de #strong[110_cm].
+    La longueur minimale de la surface de frappe est de #strong[90_cm].
+    Le bâton ne peut être utilisé correctement que si les deux mains de l'utilisateur sont en contact avec les poignées et que les deux poignées sont en contact avec les mains de l'utilisateur.
+    Le bâton ne peut pas être utilisé pour les estocs.
+    
+    Lorsqu'il est utilisé avec des dimensions réduites, la longueur maximale du bâton est de #strong[135_cm].
+    La portée maximale est alors de #strong[83_cm] et la longueur minimale de la surface de frappe de #strong[68_cm].
+    Le manchon reste #strong[1_cm] plus épais que la surface de préhension avant.],
 ).at(lang)
+
+#let caption_text = (
+  de :"Stabmaße ohne reduzierte Maße (Hinweis: Die Abbildung enthält zusätzliche Maße, die nicht mehr aktuell sind)",
+  en :"TODO",
+  fr :"Dimensions du bâton sans réduction (Remarque : l’illustration comporte des dimensions supplémentaires qui ne sont plus d’actualité)."
+)
 
 #figure(
   image("/typst/images/stab.jpg"),
-  caption: "Stabmaße ohne reduzierte Maße (Hinweis: Die Abbildung enthält zusätzliche Maße, die nicht mehr aktuell sind)",
+  caption: caption_text.at(lang),
 )

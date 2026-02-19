@@ -25,12 +25,33 @@
     Der Mindestdurchmesser des Balls und die Länge der Handschlaufe bleiben unverändert.
   ],
   en :[TODO], 
-  fr :[TODO],
+  fr :[
+  La chaine se compose d'une boucle, d'une lanière et d'une boule.
+  La boule est située à l'extrémité avant de la chaine.
+  La boucle est située à l'extrémité arrière.
+
+  La portée maximale de la chaine est égale à sa longueur maximale et est de  #strong[320_cm].
+  La longueur maximale de la boucle est de #strong[30_cm].
+  La boule est en matériau rembourré et a un diamètre minimal de #strong[19_cm].
+  La lanière doit être entièrement rembourré.
+  Le rembourrage ne doit pas glisser.
+  
+  Une chaine n'est utilisé correctement que si la boucle touche la main ou le bras du joueur.
+  La chaine ne peut pas être utilisée pour épingler.
+
+  En format réduit, la longueur maximale de la chaine est de #strong[240_cm].
+  Le diamètre minimal de la boule et la longueur de la boucle restent inchangés.],
 ).at(lang)
 
 
 
+#let caption_text = (
+  de :"Kettenmaße ohne reduzierte Maße",
+  en :"TODO",
+  fr :"Dimensions de la chaine sans dimensions réduites."
+)
+
 #align(center)[#figure(
   image("/typst/images/kette.png"),
-  caption: "Kettenmaße ohne reduzierte Maße",
+  caption: caption_text.at(lang),
 )]

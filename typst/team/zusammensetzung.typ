@@ -16,7 +16,9 @@
     TODO
   ], 
   fr :[
-    TODO
+    Une équipe est composée de huit joueur·euse·s maximum par partie.
+    Cinq joueur·euse·s maximum peuvent entrer sur le terrain à chaque tour.
+    Les autres sont les joueur·euse·s remplaçant·e·s
   ],
 ).at(lang)
 

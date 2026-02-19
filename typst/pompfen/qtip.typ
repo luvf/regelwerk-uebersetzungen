@@ -3,7 +3,7 @@
 #let title = (
   de :[Q-Tip],
   en :[Q-Tip], 
-  fr :[Cotton Tige],
+  fr :[Cotton Tige (Q-tip)],
 ).at(lang)
 
 #(
@@ -22,9 +22,27 @@
     Die maximale Reichweite beträgt dann #strong[105_cm] und die minimale Länge der Schlagfläche mit Spitze #strong[45_cm].
     Die maximale Länge der Grifffläche beträgt #strong[60_cm].],
   en :[TODO], 
-  fr :[TODO],
+  fr :[
+  Le coton-tige se compose de deux surfaces de frappe et d'une poignée (manche.
+  Les surfaces de frappe sont situées aux deux extrémités du coton-tige.
+  Le manche est situé entre les deux surfaces de frappe.
+  La longueur maximale du coton-tige est de #strong[200_cm].
+  La portée maximale du coton-tige est de #strong[140_cm].
+  La longueur minimale des surfaces de frappe, pointe comprise, est de #strong[55_cm].
+  La longueur maximale de la poignée est de #strong[80_cm].
+  Le coton-tige ne peut être utilisé correctement que si les mains du joueur sont en contact avec la poignée.
+  Le coton-tige peut être utilisé pour l'estoc.
+
+  En format réduit, la longueur maximale du coton-tige est de #strong[150_cm].
+  La portée maximale est alors de #strong[105_cm], et la longueur minimale de la surface de frappe, pointe comprise, est de #strong[45_cm].
+  La longueur maximale de la poignée est de #strong[60_cm].],
 ).at(lang)
 
 
+#let caption_text = (
+  de :"Q-Tip-Maße ohne reduzierte Maße",
+  en :"TODO",
+  fr :"Dimensions du coton-tige sans réduction."
+)
 
-#figure(image("/typst/images/q_tip.jpg"), caption: "Q-Tip-Maße ohne reduzierte Maße")
+#figure(image("/typst/images/q_tip.jpg"), caption: caption_text.at(lang))

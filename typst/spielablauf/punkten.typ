@@ -15,7 +15,9 @@
     TODO
   ], 
   fr :[
-    TODO
+    Si le Jugg est correctement placé dans un embut, le point est attribué à l'équipe qui doit marquer dans cet embut et le tour se termine.(TODO BETTER)
+    Si le Jugg est mal placé par des coureur·euse inactifs, le tour continue et le pichet doit être retiré de la zone d'objectif et placé à côté par les assistants ou les joueurs.
+
   ],
 ).at(lang)
 

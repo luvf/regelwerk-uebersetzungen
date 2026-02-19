@@ -11,7 +11,9 @@ Bearbeitung des Satzes ??
 # jugg 
 - if we play with reduced dimentions, jugg dimentions is unmodified, does that apply on pompfens (children pompfens) or reduced field (indoor ....)
 
-
+# stab
+Der Stab kann nur regelgerecht geführt werden, wenn beide Hände des*der Pompfer*in die Griffflächen berühren und beide Griffflächen von den Händen des*der Pompfer*in berührt werden.
+ - why 2 directional condition, single one seems enough.
 
 # A.2 
  - durfen =>can (may ?)

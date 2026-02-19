@@ -18,6 +18,9 @@
     TODO
   ], 
   fr :[
-    TODO
+    L'objectif d'un match en sets est de remporter un nombre prédéterminé de sets, soit un nombre prédéterminé de points.
+    Généralement, un match en sets se joue au meilleur des trois sets, chacun en 5 points gagnants.
+    Une pause est prévue entre chaque set, durant laquelle les équipes changent de côté.
+    La première équipe à remporter le nombre prédéterminé de sets gagne le match.
   ],
 ).at(lang)

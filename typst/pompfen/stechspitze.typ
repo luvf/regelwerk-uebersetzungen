@@ -25,7 +25,7 @@
     Le diamètre minimal de la pointe est de 7 cm.
     La pointe doit être en matériau rembouré et ne doit pas contenir de tige centrale.
     Elle doit être suffisamment rigide pour éviter toute déformation latérale, tout en conservant une flexibilité maximale.
-    Même enfoncée au maximum, on ne doit pas sentir l'extrémité de de l'âme.
+    Même enfoncée au maximum, on ne doit pas sentir l'extrémité de l'âme.
 
     En cas de jeu avec des dimensions réduites, le diamètre minimal de la pointe reste inchangé.
   ],

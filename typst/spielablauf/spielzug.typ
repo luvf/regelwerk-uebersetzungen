@@ -19,7 +19,12 @@
     TODO
   ], 
   fr :[
-    TODO
+    Chaque partie de Jugger se déroule en plusieurs tours.
+    Un tour commence par un signal de départ et se termine par la validation d'un point ou l'abandon du tour.
+    Chaque tour est accompagné de coups de tambour, appelées pierres.
+    L'intervalle entre deux pierres consécutives est de 1,5 seconde.
+
+    On peut jouer un match de Jugger en sets, ou aux pierres (au temps).
   ],
 ).at(lang)
 

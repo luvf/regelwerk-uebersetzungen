@@ -22,7 +22,24 @@
     Die minimale Länge der Schlagfläche mit Spitze beträgt dann #strong[75_cm].
   ],
   en :[TODO], 
-  fr :[TODO],
+  fr :[
+Le Pompfe Long se compose d'une surface de frappe et d'une poignée.
+La surface de frappe se situe à l'avant du Pompfe Long.
+La poignée se situe à l'arrière.
+La longueur maximale du Pompfe Long correspond à sa portée maximale et est de #strong[140_cm].
+La longueur minimale de la surface de frappe, pointe comprise, est de  #strong[100_cm].
+Le Pompfe Long ne peut être utilisé correctement que si les deux mains du Pompfeur·euse sont en contact avec la poignée.
+Le Pompfe Long peut être utilisé pour l'estoc.
+
+Lorsqu'il est utilisé avec des dimensions réduites, la longueur maximale du pompon long est de  #strong[105_cm].
+La longueur minimale de la surface de frappe, pointe comprise, est alors de #strong[75_cm].],
 ).at(lang)
 
-#figure(image("/typst/images/lp.jpg"), caption: "Langpompfenmaße ohne reduzierte Maße")
+
+#let caption_text = (
+  de :"Langpompfenmaße ohne reduzierte Maße",
+  en :"TODO",
+  fr :"Dimensions du pompfe Long sans dimensions réduites."
+)
+
+#figure(image("/typst/images/lp.jpg"), caption: caption_text.at(lang))

@@ -185,6 +185,7 @@
 #import "/typst/spielhelferinnen/punktezaehlerin.typ" as punktezaehlerin_text: title as punktezaehlerin_title
 #import "/typst/anhang/masstabelle.typ" as masstabelle_text: title as masstabelle_title
 #import "/typst/anhang/schluesselbegriffe.typ" as schluessel_text: title as schluessel_title
+#import "/typst/anhang/translation_notes.typ" as translation_notes_text: title as translation_notes_title
 
 // Branch: Test RW 2026 23.12.2025, zuletzt bearbeitet von Helene
 
@@ -402,6 +403,8 @@
 #pagebreak()
 == #schluessel_title
 #schluessel_text
+== #translation_notes_title
+#translation_notes_text
 
 #[]<end_of_document>
 
