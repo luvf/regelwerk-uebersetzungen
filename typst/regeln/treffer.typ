@@ -19,6 +19,10 @@
     TODO
   ], 
   fr :[
-    TODO
+    Les Pompfeur·euse·s touchent autres joueur·euse·s avec la surface de frappe de leur arme.
+
+    Les joueur·euse·s de chaine touchant les autres joueur·euse·s avec le boulet de leur chaine ou en les encerclant avec celle-ci.
+
+    Une touche est valide s'il est exécuté et placé correctement.
   ],
 ).at(lang)

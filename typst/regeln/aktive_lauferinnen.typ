@@ -3,7 +3,7 @@
 #let title = (
   de :[Aktive Läufer*innen],
   en :[TODO], 
-  fr :[coureur·euse·s],
+  fr :[Coureur·euse·s],
 ).at(lang)
 
 #(
@@ -14,7 +14,7 @@
     TODO
   ], 
   fr :[
-  	TODO
+  	Les coureur·euse·s actifs sont autorisés à s'affronter lors de combats de coureur·euse·s.
   ],
 ).at(lang)
 

@@ -16,7 +16,11 @@
     TODO
   ], 
   fr :[
-    TODO
+    La règle d'or est : « La sécurité avant tout ! » Tous les joueur·euse·s doivent jouer avec maîtrise et garder leurs émotions sous contrôle.
+
+    Tout comportement antisportif, toute agression physique ou verbale envers un·e autre joueur·euse, toute violence inutile, ainsi que tout acte susceptible de mettre en danger ou de blesser un autre joueur par son propre comportement sur le terrain sont interdits.
+
+    Si des joueur·euse·s constatent des blessures ou des comportements de brutalité excessive, ils doivent immédiatement en informer les arbitres ou les autres joueur·euse·s.
   ],
 ).at(lang)
 

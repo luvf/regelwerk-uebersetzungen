@@ -21,6 +21,13 @@
     TODO
   ], 
   fr :[
-    TODO
+    Chaque embut a un arbitre d'ebmut.
+    En plus des tâches générales des arbitres, l'arbitre d'embut signale à l'arbitre principal si le jugg a été placé correctement.
+    Si le jugg est placé correctement, l'arbitre d'embut le signale en criant « Jugg ! » et en levant les deux bras au-dessus de sa tête. Si le Jugg est mal placé, iel le signale en criant « Continuez, pas de Jugg ! » ( « „Weiter, kein Jugg! » ) et croisant ses deux bras devant son corps ; iel veille également à ce que le jeu reprenne immédiatement.
+    Si nécessaire, iel retire le Jugg et le place à côté de l'embut.
+    De plus, au début d'un point, arbitres d'embut veillent particulièrement à ce que les joueur·euse·s respectent les règles et entrent légalement sur le terrain.
+    Si une équipe entre sur le terrain en violation des règles, l'arbitre d'embut arrête le jeu et signale le mauvais départ ou le faux départ à l'arbitre.
+    Pour observer le jeu, les arbitres d'embut restent généralement près de leur ligne de but.
+    Iels observent principalement l'action dans la moitié du terrain qui leur est assignée.
   ],
 ).at(lang)

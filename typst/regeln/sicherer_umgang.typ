@@ -20,7 +20,10 @@
     TODO
   ], 
   fr :[
-    TODO
+    Les Pompfeur·euse·s sont responsables de la sécurité et de la bonne manipulation de leurs pompfe.
+    Iels peuvent dépasser les autres joueur·euse·s de champ en courant sans ralentir et les toucher s'il y a suffisamment d'espace.
+    Iels peuvent sauter à portée des autres joueurs de champ s'ils manipulent leurs pompfe avec précaution et qu'aucun contact physique n'a lieu.
+    Il est interdit aux Pompfeur·euse·s de lancer leur propre pompfe. Les enforceur·euse n'ont pas le droit d'effectuer des touches en courant à pleine vitesse ou en sautant vers l'avant. Il est interdit aux joueur·euse de chaine de tirer sur celle-ci si elle est enroulée autour d'un·e joueur·euse, ni de la faire tournoyer si un pompfe y est pris. Les joueur·euse·s de chaine doivent dégager soigneusement leur chaine de tout joueur·euse qui y est emmêle.
   ],
 ).at(lang)
 

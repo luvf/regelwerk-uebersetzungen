@@ -16,7 +16,8 @@
     TODO
   ], 
   fr :[
-    TODO
+    Les joueur·euse·s enfreignent la règle des limites du terrain s'ils touchent la zone hors des limites avec une partie quelconque de leur corps ou s'ils déplacent le jugg hors des limites.
+    En enfreignant la règle des limites du terrain, les joueur·euse·s deviennent inactif·ve·s et reçoivent une pénalité de 5 pierres.
   ],
 ).at(lang)
 

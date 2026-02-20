@@ -23,7 +23,19 @@
     Die minimale Länge der Schlagfläche mit Spitze beträgt dann #strong[50_cm].
   ],
   en :[TODO], 
-  fr :[TODO],
+  fr :[
+  Le Pompfe Court se compose d'une surface de frappe et d'une poignée.
+  La surface de frappe se situe à l'avant du pompfe court.
+  La poignée se situe à l'arrière.
+  La longueur maximale du pompfe court correspond à sa portée maximale et est de  #strong[85_cm].
+  La longueur minimale de la surface de frappe, pointe comprise, est de #strong[60_cm].
+  Le pompfe court court s'utilise avec un bouclier ou un second pompfe court.
+
+  Le pompfe court est utilisé correctement que si la main du joueur est en contact avec le manche.
+  Le pompfe court peut être utilisé pour l'estoc.
+
+  Lorsqu'on joue avec des dimensions réduites, la longueur maximale du pompfe court est de #strong[64_cm].
+  La longueur minimale de la surface de frappe, pointe comprise, est alors de #strong[60_cm].],
 ).at(lang)
 
 

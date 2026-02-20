@@ -3,7 +3,7 @@
 #let title = (
   de :[Punkte- und Steinezähler*in],
   en :[TODO], 
-  fr :[Compteur du temps et copmteur de points],
+  fr :[Gardien·ne du temps et compteur de points],
 ).at(lang)
 
 #(
@@ -19,6 +19,11 @@
     TODO
   ], 
   fr :[
-    TODO
+    La·le gardien·ne du temps et enregistre les points marqués.
+    Iel communique le score à l'organisation du jeu après chaque tour.
+    La·le gardien·ne du temps veille à ce que les signaux sonores soient clairement entendus par les joueur·euse·s et les arbitres, ou les effectue lui/elle-même.
+    Dans les jeux en pierres, iel compte les pierres pendant un tour et communique le nombre de pierres restantes à l'organisation du jeu après chaque tour.
+
+    En cas de rejeu, il note le nombre de pierres en jeu au début du tour. Il compte à voix haute les dix dernières pierres de chaque mi-temps, de manière à ce qu'elles soient clairement audibles par les joueur·euse·s et les officiels, et annonce la fin de la mi-temps.
   ],
 ).at(lang)

@@ -233,7 +233,7 @@
 ).at(lang)
 
 #let game_rules = (
-  de :[Spielregeln], en :[todo], fr :[todo],
+  de :[Spielregeln], en :[todo], fr :[Règles du Jeu],
 ).at(lang)
 
 

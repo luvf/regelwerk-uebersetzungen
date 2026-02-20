@@ -8,12 +8,37 @@ Bearbeitung des Satzes ??
 - p3. In case of disagreement : why not using referee
       after the orga : imply exsitance of orga/tournament... rule book should decide rule a game not a tounrament or more ?
 
-# jugg 
-- if we play with reduced dimentions, jugg dimentions is unmodified, does that apply on pompfens (children pompfens) or reduced field (indoor ....)
 
 # stab
 Der Stab kann nur regelgerecht geführt werden, wenn beide Hände des*der Pompfer*in die Griffflächen berühren und beide Griffflächen von den Händen des*der Pompfer*in berührt werden.
  - why 2 directional condition, single one seems enough.
+
+
+# 441 
+"Wurde der Jugg durch inaktive Läufer*innen ungültig platziert"
+I have "If a jug is invalidly placed by an inactive runner." (imply 2 conditions, inactive runner and invalidly, what happend in each ones of the )
+
+
+why using :
+Spielleitung (game officials, an not direcly referees )
+
+fruhstart and Fehlstart are not the same, I can do as many Fehlstart as i want ?
+
+# if you are down from the out rule, you can kneel anywere
+
+
+# Gültig ausgeführte Treffer
+ pompfe wrapped touch a non-Chain and the chain=>not a valid hit
+ (technically as the pompfer touch their own wraped pompfe, so no valid hit is possilble)
+ technially 2 you can friendly your own chain based on this wording ?
+
+# Ansagen
+ Feldspieler*innen (pompfers ? )
+
+
+# Gültig platzierte Treffer
+if hit neck then body is valid : text says head then body non valid or as it is said head = head+neck ?
+
 
 # A.2 
  - durfen =>can (may ?)

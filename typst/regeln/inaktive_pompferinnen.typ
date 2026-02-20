@@ -3,7 +3,7 @@
 #let title = (
   de :[Inaktive Pompfer*innen],
   en :[TODO], 
-  fr :[Enforceurs inactifs],
+  fr :[Pompfeur·euse·s inactifs],
 ).at(lang)
 
 #(
@@ -21,6 +21,12 @@
     TODO
   ], 
   fr :[
-    TODO
+    Les Pompfeur·euse·s inactif·ve·s doivent poser leur Pompfen à plat au sol.
+    Il leur est interdit de toucher ou d'epingler les autres joueur·euse·s.
+    Iels peuvent tenir leur bouclier en posant n'importe quelle partie du corps au sol.
+    L'extrémité d'une chaine peut être soulevée du sol.
+    Si leur Pompfe est enroulé autour d'une chaine, ou si leur chaine est enroulée autour d'un Pompfen, ils doivent aider à le démêler ou le lâcher pour ne pas gêner l'autre joueur.
+    S'iels ont perdu leur Pompfe, il leur est interdit de le récupérer.
+    Les joueur·euse·s inactif·ve·s deviennent actif·ve·s lorsqu'iels déplacent le Jugg.
   ],
 ).at(lang)

@@ -21,8 +21,21 @@
     TODO
   ], 
   fr :[
-    TODO
+    La zone de touche est la partie du corps des joueur·euse·s où les coups peuvent être portés légalement.
+
+    La zone de la tête comprend la tête et le cou.
+
+    Pour tous les joueur·euse·s, le corps entier, vêtements compris mais tête exclue, constitue zone de touche.
+    Pour les coureur·euse·s, si leurs mains touchent le Jugg, celui-ci devient également une zone cible.
+    La main d'un·e enforceur·euse n'est une zone cible que si elle ne touche pas le pompfe qu'iel manie.
+    Les poignets font partie de la zone de touche.
   ],
 ).at(lang)
 
-#figure(image("/typst/images/trefferzonen.jpg"), caption: "Illustration der Trefferzonen (grau schraffierte Bereiche gehören nicht zur Trefferzone)")
+#let caption_text =(
+  de:"Illustration der Trefferzonen (grau schraffierte Bereiche gehören nicht zur Trefferzone)",
+  en:"TODO",
+  fr:"Illustration des zone de touche (les zones hachurées en gris ne font pas partie de la zone de touche)",
+)
+
+#figure(image("/typst/images/trefferzonen.jpg"), caption: caption_text.at(lang))

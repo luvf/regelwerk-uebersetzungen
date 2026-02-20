@@ -3,7 +3,7 @@
 #let title = (
   de :[Pompfer*innen],
   en :[TODO], 
-  fr :[Enforceur·euse·s],
+  fr :[Pompfeur·euse·s],
 ).at(lang)
 
 #(
@@ -16,7 +16,9 @@
     TODO
   ], 
   fr :[
-    TODO
+    Les Pompfeur·euse·s peuvent interagir avec le Jugg en le déplaçant ou en le touchant avec leur Pompfe.
+    Iels ne peuvent pas transporter le Jugg avec leur Pompfe.
+    Si un Pompfe endommagé est retiré du jeu et remplacé par un nouveau, le Pompfeur·euse concerné ne peut plus interagir avec le Jugg.
   ],
 ).at(lang)
 

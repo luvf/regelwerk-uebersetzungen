@@ -21,7 +21,14 @@
     TODO
   ], 
   fr :[
-    TODO
+    Les Enforceur·euse actifs peuvent Épingler les joueur·euse inactifs, agenouillés légalement.
+    Chaque Enforceur·euse actif peut Épingler un seul joueur·euse de champ à la fois.
+    Pour Epingler un joueur·euse, il le fait en touchant la zone de touche du joueur de champ inactif avec la surface de frappe de son pompfe, utilisé légalement.
+    L'Épinglage se poursuit tant que le pompfe touche la·le joueur·euse inactif de cette manière.
+    L'Enforceur·euse actif peut interrompre l'immobilisation à tout moment, par exemple pour toucher des joueur·euse actifs ou Épingler d'autres joueurs de champ, puis reprendre.
+    Un Enforceur·euse actif dont le pompfe est entouré d'une chaîne ne peut pas Épingler.
+    Un·e joueur·euse ayant purgé sa pénalité, est considéré comme Épinglé, s'il est Épinglé.
+    Une fois qu'un·e joueur·euse n'est plus Épingler, l'Épinglage dure jusqu'à ce que la pierre suivante ait rententi.
   ],
 ).at(lang)
 

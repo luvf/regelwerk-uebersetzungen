@@ -21,16 +21,29 @@
     TODO
   ], 
   fr :[
-    TODO
+    Un coup porté est valide si aucune des conditions suivantes n'est remplie :
+      - la·le joueur·euse touché est inactif.
+      - Le coup porté a lieu en dehors de la zone de touche.
+      - la·le joueur·euse est touché d'abord à la tête, puis dans la zone de touche, en un seul mouvement d'arme.
+  
+  Si un·e joueur·euse est touché d'abord sur un zone de touche, puis à la tête, en un seul mouvement, 
+  le coup porté est valide.
   ],
 ).at(lang)
 
+#let caption_text = (
+  de: "Beispiel Unterscheidung zwischen gültig und ungültig platzierten Treffern an der Kopfzone\
+    (links ungültig, rechts gültig)",
+  en: [TODO],
+  fr: "
+    Exemple de distinction entre les touches valides et invalides dans la zone de la tête :
+      (à gauche, impact invalide ; à droite, impact valide)",
+)
 
 
 #figure(
   image("/typst/images/bueste_kopf.jpg", height: 10cm),
-  caption: [
-    Beispiel Unterscheidung zwischen gültig und ungültig platzierten Treffern an der Kopfzone\
-    (links ungültig, rechts gültig)
-  ],
+  caption: caption_text.at(lang),
 )
+
+

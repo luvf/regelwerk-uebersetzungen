@@ -17,6 +17,9 @@
     TODO
   ], 
   fr :[
-    TODO
+    Si un·e joueur·euse est touché légalement tout en touchant simultanément un·e joueur·euse légalement, il s'agit d'un double contact.
+    Si ces joueur·euse·s ne peuvent déterminer quel joueur a été touché légalement en premier, les contacts sont considérés comme simultanés. Tous ces contacts sont valides.
+    La décision concernant un double contact est laissée à l'appréciation des joueur·euse·s concernés.
+    En cas de litige, la décision des arbitres est sans appel.
   ],
 ).at(lang)

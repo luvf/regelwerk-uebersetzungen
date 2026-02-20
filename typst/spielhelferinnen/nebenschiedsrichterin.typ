@@ -16,7 +16,9 @@
     TODO
   ], 
   fr :[
-    TODO
+    Outre les fonctions générales des arbitres, l'arbitre secondaire épaule principalement l'arbitre principal dans la gestion du match.
+    Pour observer le jeu, iel se place sur la ligne de touche opposée à celle de l'arbitre principal, à hauteur du ballon.
+    Iel observe principalement l'action dans sa propre moitié de terrain et au centre du terrain.
   ],
 ).at(lang)
 

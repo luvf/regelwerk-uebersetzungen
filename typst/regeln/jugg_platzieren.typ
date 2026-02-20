@@ -21,7 +21,14 @@
     TODO
   ], 
   fr :[
-    TODO
+    Un Jugg doit est validement placé dans l'embut pour marquer un point.
+    Un·e coureur·euse actif peut placer le Jugg en le déplaçant dans l'embut.
+    Tant que le Jugg est enfoncé au maximum dans l'embut, il est considéré comme placé.
+    Le ballon est validement placé si :
+      - Il reste bloqué dans l'embut et
+      - Aucun·e coureur·euse·s actif ne le touche.
+    Ceci s'applique également si les coureur·euse·s ne peuvent plus toucher le Jugg car iels sont devenus inactif·ve·s.
+    Dans tous les autres cas, le jugg est considéré comme non placé.
   ],
 ).at(lang)
 

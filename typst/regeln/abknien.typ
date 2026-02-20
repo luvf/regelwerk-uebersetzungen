@@ -16,7 +16,14 @@
     Solange sie regelkonform abknien, dürfen sie sich beliebig drehen.
   ],
   en :[TODO], 
-  fr :[TODO],
+  fr :[
+    Pour signaler leur inactivité, les joueur·euse·s doivent s'agenouiller à l'endroit où iels sont inactif·ve·s et y rester jusqu'à leur retour en jeu.
+    Un joueur de champ inactif s'agenouille correctement lorsque :
+      - Aucune partie de son corps ne touche la zone hors limites,
+      - Un genou touche le sol.
+      - Une main est derrière le dos.
+Tant qu'iel est correctement agenouillé, iel peut se tourner librement.
+],
 ).at(lang)
 
 

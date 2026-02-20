@@ -3,7 +3,7 @@
 #let title = (
   de :[Aktive Pompfer*innen],
   en :[TODO], 
-  fr :[TODO],
+  fr :[Les Pompfeur·euse·s actif·ve·s],
 ).at(lang)
 
 #(
@@ -15,6 +15,7 @@
     TODO
   ], 
   fr :[
-    TODO
+    Les Pompfeur·euse·s actif·ve·s peuvent toucher les autres joueur·euse·s avec leur pompfe ou leur chaine.
+    Les Enforceur·euse actif·ve·s peuvent épingler un·e joueur·euse inactif·ve.
   ],
 ).at(lang)
