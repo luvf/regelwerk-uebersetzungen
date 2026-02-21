@@ -35,5 +35,12 @@
   ],
 ).at(lang)
 
-#figure(image("/typst/images/schild.jpg"), caption: "Schildmaße")
+
+#let caption_text = (
+  de :"Schildmaße",
+  en :"TODO",
+  fr :"Dimensions du bouclier"
+)
+
+#figure(image("/typst/images/schild.jpg"), caption: caption_text.at(lang) )
 

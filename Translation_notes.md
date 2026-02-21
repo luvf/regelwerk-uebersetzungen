@@ -15,7 +15,7 @@ Der Stab kann nur regelgerecht geführt werden, wenn beide Hände des*der Pompfe
 
 
 # 441 
-"Wurde der Jugg durch inaktive Läufer*innen ungültig platziert"
+"Wurde der Jugg durch inaktive Läufer* innen ungültig platziert"
 I have "If a jug is invalidly placed by an inactive runner." (imply 2 conditions, inactive runner and invalidly, what happend in each ones of the )
 
 
@@ -33,12 +33,14 @@ fruhstart and Fehlstart are not the same, I can do as many Fehlstart as i want ?
  technially 2 you can friendly your own chain based on this wording ?
 
 # Ansagen
- Feldspieler*innen (pompfers ? )
+ Feldspieler* innen (pompfers ? )
 
 
 # Gültig platzierte Treffer
 if hit neck then body is valid : text says head then body non valid or as it is said head = head+neck ?
 
+# Läufer* innenkampf 
+push a runner
 
 # A.2 
  - durfen =>can (may ?)

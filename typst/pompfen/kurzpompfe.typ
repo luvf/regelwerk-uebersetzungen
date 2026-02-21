@@ -39,5 +39,11 @@
 ).at(lang)
 
 
-#figure(image("/typst/images/kp.jpg"), caption: "Kurzpompfenmaße ohne reduzierte Maße")
+#let caption_text=(
+  de:"Kurzpompfenmaße ohne reduzierte Maße",
+  en:"TODO",
+  fr:"Dimensions de la pompe courte sans les dimensions réduites",
+)
+
+#figure(image("/typst/images/kp.jpg"), caption: caption_text.at(lang))
 

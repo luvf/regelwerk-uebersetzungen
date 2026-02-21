@@ -195,5 +195,9 @@
   table_traduction.at("striking_tip").at("translation").at(lang),
   table_traduction.at("striking_tip").at("notes").at(lang),
 
+  table_traduction.at("pin").at("keyword"),
+  table_traduction.at("pin").at("translation").at(lang),
+  table_traduction.at("pin").at("notes").at(lang),
+
 
 )

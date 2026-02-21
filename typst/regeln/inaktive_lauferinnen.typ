@@ -3,7 +3,7 @@
 #let title = (
   de :[Inaktive Läufer*innen],
   en :[TODO], 
-  fr :[Coureur·euse·s Inactifs],
+  fr :[Coureur·euse·s Inctif·ve·s],
 ).at(lang)
 
 #(

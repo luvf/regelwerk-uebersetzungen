@@ -91,7 +91,7 @@
 
 // text & images
 #set par(justify: true)
-#set text(lang: "de", size: 13pt, font: "vollkorn", fill: rgb("#4F4F51"))
+#set text(lang: lang, size: 13pt, font: "vollkorn", fill: rgb("#4F4F51"))
 #show figure: set align(center)
 #show figure.caption: set text(size: 10pt)
 #show "_": sym.space.nobreak.narrow
@@ -197,12 +197,18 @@
 #pagebreak()
 #impressum_text
 
+#let summary_word=(
+  de:"Inhalt",
+  en:"Summary",
+  fr:"Sommaire",
+).at(lang)
+
 #[ // Outline page
   #pagebreak()
   #show link: set text(size: 11pt)
   #set page(margin: (top: 2.5cm))
   #align(center)[
-    #text(size: 40pt, font: "montserrat", weight: "thin")[#upper[Inhalt]]
+    #text(size: 40pt, font: "montserrat", weight: "thin")[#upper[#summary_word]]
   ]
   #box(height: 21.5cm)[#columns(2, outline(title: none))]
   #pagebreak()
@@ -229,7 +235,7 @@
 ).at(lang)
 
 #let end_round = (
-  de :[Beenden eines Spielzugs], en :[Ending a Point], fr :[Arreter un Point],
+  de :[Beenden eines Spielzugs], en :[Ending a Point], fr :[Arrêter un Point],
 ).at(lang)
 
 #let game_rules = (

@@ -28,7 +28,7 @@
     Le bâton se compose de deux poignées, d'un manchon de séparation et d'une surface de frappe.
     Les deux poignées sont situées à l'arrière du bâton et séparées par le manchon.
     La poignée arrière se trouve entre le pommeau et le manchon, et la poignée avant entre le manchon et la surface de frappe.
-    La bague doit clairement délimiter la portée maximale du bâton et être plus épaisse d'au moins 1 cm que la poignée avant.
+    Le manchon doit clairement délimiter la portée maximale du bâton et être plus épaisse d'au moins 1 cm que la poignée avant.
     Comme toutes les parties du bâton, le manchon ne doit présenter aucune arête vive.
     La longueur maximale du bâton est de #strong[180_cm].
     La portée maximale du bâton est de #strong[110_cm].
@@ -44,7 +44,7 @@
 #let caption_text = (
   de :"Stabmaße ohne reduzierte Maße (Hinweis: Die Abbildung enthält zusätzliche Maße, die nicht mehr aktuell sind)",
   en :"TODO",
-  fr :"Dimensions du bâton sans réduction (Remarque : l’illustration comporte des dimensions supplémentaires qui ne sont plus d’actualité)."
+  fr :"Dimensions du bâton sans les dimensions réduites (Remarque : l’illustration comporte des dimensions supplémentaires qui ne sont plus d’actualité)."
 )
 
 #figure(

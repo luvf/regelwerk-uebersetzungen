@@ -26,7 +26,7 @@
     Les Pompfeur·euse·s inactif·ve·s se relèvent également lorsqu'elles déplacent le jugg.
     Les coureur·euse·s inactif·ve·s se relèvent également lorsqu'ils déplacent le jugg ou le touchent de la main.
     Les joueur·euse·s peuvent se relever une fois leur temps de pénalité écoulé.
-    Si un·e joueur·euse se relève après avoir purgé sa pénalité, alors q'iel est épinglé, iel écope d'une pénalité de 5 pierres.
+    Si un·e joueur·euse se relève après avoir purgé sa pénalité, alors qu'iel est épinglé, iel écope d'une pénalité de 5 pierres.
     Une fois l'épinglage retirée, iel peut se relever normalement sans pénalité.
     Les joueur·euse·s inactif·ve·s peuvent rester à genoux au-delà de leur temps de pénalité et demeurent ainsi inactif·ve·s.
   ],
@@ -34,5 +34,4 @@
 
 
 
-#let title = "Aufstehen"
 

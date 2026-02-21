@@ -20,8 +20,8 @@
 
   ], 
   fr :[Les Pomfen droits sont composés de surfaces de préhension (poignée) et de surfaces de frappe rondes et rembourrées. 
-  Il ne sont pas stylises en forme d'épée, ni ne possèdent une lame.
-  La portée maximale d'un pompfe droit correspond à la somme des longueurs de sa surface de préhension (avant) et d'une surface de frappe adjacente.
+  Il n'ont pas de lame ni ne sont stylisé de ce genre.
+  La portée maximale d'un pompfe droit correspond à la somme des longueurs de sa surface de préhension (avant) et de la surface de frappe adjacente.
 
   Les Pomfen droits sont constitués d'une tige centrale (âme) et d'un rembourrage approprié.
   Afin de prévenir les blessures, les tiges centrales, susceptibles de se briser facilement, doivent être recouvertes d'un matériau flexible, résistant à la perforation.

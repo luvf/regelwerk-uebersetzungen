@@ -3,7 +3,7 @@
 #let title = (
   de :[Inaktive Feldspieler*innen],
   en :[TODO], 
-  fr :[Joueur·euse·s inactifs],
+  fr :[Joueur·euse·s Inactif·ve·s],
 ).at(lang)
 
 #(

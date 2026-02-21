@@ -23,7 +23,7 @@
     Die maximale Länge der Grifffläche beträgt #strong[60_cm].],
   en :[TODO], 
   fr :[
-  Le coton-tige se compose de deux surfaces de frappe et d'une poignée (manche.
+  Le coton-tige se compose de deux surfaces de frappe et d'une poignée (manche).
   Les surfaces de frappe sont situées aux deux extrémités du coton-tige.
   Le manche est situé entre les deux surfaces de frappe.
   La longueur maximale du coton-tige est de #strong[200_cm].

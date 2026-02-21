@@ -40,7 +40,12 @@
 		La distance entre chaque ligne de fond et la ligne de fond est de #strong[1,5_m].
 	]
 
+).at(lang)
+
+#let caption_text=(
+	de:"Maße des Spielfeldes ohne reduzierte Maße",
+	en:"TODO",
+	fr:"Dimensions du terrain de jeu sans les dimensions réduites",
 )
 
-#field_paragraph.at(lang)
-#figure(image("/typst/images/feld.jpg"), caption: "Maße des Spielfeldes ohne reduzierte Maße")
+#figure(image("/typst/images/feld.jpg"), caption: caption_text.at(lang))
