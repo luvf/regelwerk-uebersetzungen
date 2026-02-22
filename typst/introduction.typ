@@ -10,14 +10,13 @@
     Getroffene Spieler*innen dürfen für eine festgelegte Dauer nicht mehr am Spiel teilnehmen.
     So können die vier Pompfer*innen den*die eigene*n Läufer*in beim Punkten unterstützen.],
   en :"TODO",
-  fr : [#heading(numbering: none, outlined: false)[Expliquation Brève: Qu'est ce que le Jugger?]
-    Le Jugger est un sport d'équipe.
-    Où le but est de marquer des buts en plaçant une balle (Jugg) dans l'embut but adverse  le plus souvent possible.
-    Une équipe est composée de cinq joueur·euse·s sur le terrain et de trois remplaçant·es maximum.
-    Seul la·e porteur·euse de balle, appelé le coureur·euse, est autorisé à ramasser la balle et à la placer dans l'embut adverse.
-    Les quatre autres joueur·euse·s, les pompfeur·ses, sont équipés d'armes en mousse (pompfen) avec lesquels iels peuvent toucher les joueur·euse·s de l'équipe adverse.
-    Les joueur·euse·s touchés par un pompfen obtiennent une pénalité de jeu pendant une durée déterminée.
-    Cela permet aux pompfeur·ses d'aider leur coureur·euse à marquer des points.
+  fr : [#heading(numbering: none, outlined: false)[Explication Brève: Qu'est-ce que le Jugger ?]
+    Le Jugger est un sport d'équipe où le but est de marquer des buts en plaçant une balle (Jugg) dans l'embut adverse le plus souvent possible.
+    Une équipe est composée de cinq joueur·euse·s sur le terrain et de trois remplaçant·e·s maximum.
+    Seul·e la·e porteur·euse de balle, appelé la·e coureur·euse, est autorisé·e à ramasser la balle et à la placer dans l'embut adverse.
+    Les quatre autres joueur·euse·s, les pompfeur·se·s, sont équipé·e·s d'armes en mousse (Pompfen) avec lesquelles iels peuvent toucher les joueur·euse·s de l'équipe adverse.
+    Les joueur·euse·s touché·e·s par un Pompfe ont une pénalité de jeu pendant une durée déterminée.
+    Cela permet aux pompfeur·se·s d'aider leur coureur·euse à marquer des points.
   ],
 ).at(lang)
 
@@ -35,7 +34,7 @@
     Les ordres imposent un comportement précis.
     Les interdictions imposent l'abstention d'un comportement précis.
     Les autorisations permettent explicitement un comportement précis, sous réserve du respect des conditions qui y sont associées.
-    Toute action liée au jeu non prévue par les règles est considérée comme non réglementée et peut faire l'objet d'une réglementation provisoire par les joueur·euse·s, les arbitres ou les organisateur·rice.
+    Toute action liée au jeu non prévue par les règles est considérée comme non réglementée et peut faire l'objet d'une réglementation provisoire par les joueur·euse·s, les arbitres ou les organisateur·rice·s.
     L'évaluation de cette réglementation provisoire est effectuée dans un esprit de concertation et d'équité.
   ],
 ).at(lang)
@@ -46,9 +45,9 @@
     Kinder (bis 13 Jahre), Jugend (14 bis 17 Jahre) und Erwachsene (ab 18 Jahre).
     Es gibt reduzierte Maße für Spielmaterialien, die im Kinderbereich Anwendung finden.],
   en:"TODO",
-  fr:[#heading(numbering: none, outlined: false)[Jugger pour enfants et adolescents]
+  fr:[#heading(numbering: none, outlined: false)[Le Jugger pour enfants et adolescents]
     Au Jugger, les participant·e·s sont répartis en trois groupes d'âge :
-    Enfants (jusqu'à 13 ans), adolescent·e·s (de 14 à 17 ans) et Adultes (18 ans et plus).
+    enfants (jusqu'à 13 ans), adolescent·e·s (de 14 à 17 ans) et adultes (18 ans et plus).
     Du matériel adapté à la taille des enfants est disponible.
   ],
 ).at(lang)
@@ -64,8 +63,8 @@
   fr:[#heading(numbering: none, outlined: false)[Gestion des situations non réglementées]
     Le Jugger valorise le fair-play de ses joueur·euse·s.
     Généralement, les joueur·euse·s des équipes adverses règlent les litiges ensemble et individuellement.
-    En cas d'action non réglementaire, ils ont le droit de prendre une décision préliminaire ensemble et de déterminer comment la situation sera gérée pour la suite de la partie.
-    En cas de désaccord, les arbitres tranchent afin d'assurer le bon déroulement du jeu. Après la partie, l'organisateur·rice de l'évenement doit établir une règle concernant le litige pour toute la durée de l'événement.
+    En cas d'action non réglementaire, iels ont le droit de prendre une décision préliminaire ensemble et de déterminer comment la situation sera gérée pour la suite de la partie.
+    En cas de désaccord, les arbitres tranchent afin d'assurer le bon déroulement du jeu. Après la partie, l'organisateur·rice de l'événement doit établir une règle concernant le litige pour toute la durée de l'événement.
   ],
 ).at(lang)
 

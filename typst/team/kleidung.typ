@@ -20,8 +20,8 @@
     TODO
   ], 
   fr :[
-    Tous les joueur·euse·s et officiels de match doivent se couvrir le torse avec un ou plusieurs vêtements et porter des vêtements pour les jambes (short compris).
-    Sur le terrain touts les joueur·euse·s doivent porter des chaussures
+    Tou·te·s les joueur·euse·s et officiels de match doivent se couvrir le torse avec un ou plusieurs vêtements et porter des vêtements pour les jambes (short compris).
+    Sur le terrain tou·te·s les joueur·euse·s doivent porter des chaussures
     Les bijoux doivent être retirés ou, si cela est impossible, recouverts de ruban adhésif.
     
     Les joueur·euse·s peuvent porter des vêtements de protection.

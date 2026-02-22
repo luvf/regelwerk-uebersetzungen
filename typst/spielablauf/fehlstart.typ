@@ -21,12 +21,12 @@
     TODO
   ], 
   fr :[
-Une équipe commet un faux départ si, au début d'un tour il y a soit : 
-- plus d'un·e coureur·euse,
-- plus de quatre pompfeur·euse,
-- plus d'un joueur·euse de chaine 
+Une équipe commet un mauvais départ si, au début d'un tour il y a soit : 
+- plus d'un·e coureur·euse ;
+- plus de quatre pompfeur·euse·s ;
+- plus d'un joueur·euse de chaîne ;
 de l'équipe qui sont sur le terrain.
-Après un faux départ, le tour en cours doit être arrêté.
+Après un mauvais départ, le tour en cours doit être arrêté.
   ],
 ).at(lang)
 

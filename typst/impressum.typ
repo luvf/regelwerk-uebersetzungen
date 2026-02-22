@@ -51,25 +51,25 @@ CC 2025 Deutscher Jugger Sportverband \
 	],
  	fr :[#enum(enum.item(13)[Édition révisée 2026. Publié par: Deutscher Jugger Verband.\ Édité par : Helene Glöckner, Mario Treiber, Max Vogel.])
 
-		+ Édition 2007. Publié par: Drachenblut-Forum \ Edité par : Ruben Wickenhäuser, Jakob Senst
-		+ Édition 2010. Publié par: Jugger-Community. \ Edité par : Ruben Wickenhäuser
-		+ Édition 2012. Publié par: Jugger-Community. \ Edité par : Ruben Wickenhäuser
-		+ Édition entièrement révisée 2014. \ Edité par : Stefan Böhme, Peter Pflugrad, Siegfried Urschel, Johanna von Nathusius.
-		+ Édition entièrement révisée 2015. Publié par: Jugger-Community. \ Edité par : Tobias Doßmann, Johanna von Nathusius, Aaron Wilde.
-		+ Édition révisée 2016. Publié par: Jugger-Community. \ Edité par: Felix Schiller, Johanna von Nathusius, Aaron Wilde.
-		+ Édition révisée 2017. Publié par: Jugger-Community. \ Edité par: Felix Schiller, Johanna von Nathusius, Aaron Wilde.
-		+ Édition révisée 2018. Publié par: Jugger-Community. \ Edité par: Felix Schiller, Johanna von Nathusius, Aaron Wilde.
-		+ Édition révisée 2020. Publié par: Jugger Community.\ Edité par: Felix Schiller, Johanna von Nathusius, Aaron Wilde.
-		+ Édition révisée 2021. Publié par: Jugger Community.\ Edité par: Pit Albert, Jens-Cédric Höpfer, Manuel Kubat, Sarah Licht.
-		+ Édition révisée 2023. Publié par: Jugger Community.\ Edité par: Pit Albert, Manuel Kubat, Felix Lang.
-		+ Édition révisée 2025. Publié par: Jugger Community.\ Edité par: Pit Albert, Manuel Kubat
+		+ Édition 2007. Publiée par: Drachenblut-Forum \ Editée par : Ruben Wickenhäuser, Jakob Senst
+		+ Édition 2010. Publiée par: Jugger-Community. \ Editée par : Ruben Wickenhäuser
+		+ Édition 2012. Publiée par: Jugger-Community. \ Editée par : Ruben Wickenhäuser
+		+ Édition entièrement révisée 2014. \ Editée par : Stefan Böhme, Peter Pflugrad, Siegfried Urschel, Johanna von Nathusius.
+		+ Édition entièrement révisée 2015. Publiée par: Jugger-Community. \ Editée par : Tobias Doßmann, Johanna von Nathusius, Aaron Wilde.
+		+ Édition révisée 2016. Publiée par: Jugger-Community. \ Editée par: Felix Schiller, Johanna von Nathusius, Aaron Wilde.
+		+ Édition révisée 2017. Publiée par: Jugger-Community. \ Editée par: Felix Schiller, Johanna von Nathusius, Aaron Wilde.
+		+ Édition révisée 2018. Publiée par: Jugger-Community. \ Editée par: Felix Schiller, Johanna von Nathusius, Aaron Wilde.
+		+ Édition révisée 2020. Publiée par: Jugger Community.\ Editée par: Felix Schiller, Johanna von Nathusius, Aaron Wilde.
+		+ Édition révisée 2021. Publiée par: Jugger Community.\ Editée par: Pit Albert, Jens-Cédric Höpfer, Manuel Kubat, Sarah Licht.
+		+ Édition révisée 2023. Publiée par: Jugger Community.\ Editée par: Pit Albert, Manuel Kubat, Felix Lang.
+		+ Édition révisée 2025. Publiée par: Jugger Community.\ Editée par: Pit Albert, Manuel Kubat
 
 
 		Composition, mise en page, illustration et page de couverture:
 		Aaron Wilde – Jugger Consulting \
-		Cette edition (13. Ausgabe 2026):
+		Cette édition (13. Ausgabe 2026):
 		Helene Glöckner, Mario Treiber und Max Vogel\
-		Traduction Francaise : Luca Veyrin-Foorrer],
+		Traduction française : Luca Veyrin-Foorrer],
 ).at(lang)
 #authors
 
@@ -94,9 +94,9 @@ CC 2025 Deutscher Jugger Sportverband \
 	],
 	en: [TODO],
 	fr:[#heading(numbering: none, outlined: false)[Notes]
-		Le règlement définit le cadre national du Jugger en Allemagne, établi par la communauté active de Jugger, et régit le jeu, le terrain, le matériel et l'arbitrage.
+		Le règlement définit le cadre national du Jugger en Allemagne, établi par la communauté active du Jugger, et régit le jeu, le terrain, le matériel et l'arbitrage.
 		Il ne contient que les éléments décidés par la communauté allemande de Jugger.
-		Le travail des redacteurices du règlement est validé par élection au sein de la communauté allemande de Jugger.\
+		Le travail des rédacteur·ice·s du règlement est validé par élection au sein de la communauté allemande du Jugger.\
 
 		Pages d'information principales sur le Jugger :
 		#weblink(url: "https://jugger.org", display: "jugger.org")\

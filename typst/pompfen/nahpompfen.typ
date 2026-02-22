@@ -3,7 +3,7 @@
 #let title = (
   de :[Nahpompfen],
   en :[TODO], 
-  fr :[Les Pomfen droits],
+  fr :[Les Pompfen droits],
 ).at(lang)
 
 #(
@@ -19,11 +19,11 @@
   en :[TODO
 
   ], 
-  fr :[Les Pomfen droits sont composés de surfaces de préhension (poignée) et de surfaces de frappe rondes et rembourrées. 
+  fr :[Les Pompfen droits sont composés de surfaces de préhension (poignée) et de surfaces de frappe, rondes et rembourrées. 
   Il n'ont pas de lame ni ne sont stylisé de ce genre.
-  La portée maximale d'un pompfe droit correspond à la somme des longueurs de sa surface de préhension (avant) et de la surface de frappe adjacente.
+  La portée maximale d'un Pompfe droit correspond à la somme des longueurs de sa surface de préhension (avant) et de sa surface de frappe.
 
-  Les Pomfen droits sont constitués d'une tige centrale (âme) et d'un rembourrage approprié.
+  Les Pompfen droits sont constitués d'une tige centrale (âme) et d'un rembourrage approprié.
   Afin de prévenir les blessures, les tiges centrales, susceptibles de se briser facilement, doivent être recouvertes d'un matériau flexible, résistant à la perforation.
   La tige centrale ne doit pas pénétrer l'extrémité de la surface de frappe sous une force raisonnable.
 

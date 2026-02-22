@@ -3,7 +3,7 @@
 #let title = (
   de :[Kette],
   en :[Chain], 
-  fr :[Chaine],
+  fr :[Chaîne],
 ).at(lang)
 
 #(
@@ -26,20 +26,20 @@
   ],
   en :[TODO], 
   fr :[
-  La chaine se compose d'une boucle, d'une lanière et d'une boule.
-  La boule est située à l'extrémité avant de la chaine.
+  La chaîne se compose d'une boucle, d'une lanière et d'une boule.
+  La boule est située à l'extrémité avant de la chaîne.
   La boucle est située à l'extrémité arrière.
 
-  La portée maximale de la chaine est égale à sa longueur maximale et est de  #strong[320_cm].
+  La portée maximale de la chaîne est égale à sa longueur maximale et est de #strong[320_cm].
   La longueur maximale de la boucle est de #strong[30_cm].
   La boule est en matériau rembourré et a un diamètre minimal de #strong[19_cm].
-  La lanière doit être entièrement rembourré.
+  La lanière doit être entièrement rembourrée.
   Le rembourrage ne doit pas glisser.
   
-  Une chaine n'est utilisé correctement que si la boucle touche la main ou le bras du joueur.
-  La chaine ne peut pas être utilisée pour épingler.
+  Une chaîne n'est utilisée correctement que si la boucle touche la main ou le bras du joueur.
+  La chaîne ne peut pas être utilisée pour épingler.
 
-  En format réduit, la longueur maximale de la chaine est de #strong[240_cm].
+  En format réduit, la longueur maximale de la chaîne est de #strong[240_cm].
   Le diamètre minimal de la boule et la longueur de la boucle restent inchangés.],
 ).at(lang)
 
@@ -48,7 +48,7 @@
 #let caption_text = (
   de :"Kettenmaße ohne reduzierte Maße",
   en :"TODO",
-  fr :"Dimensions de la chaine sans dimensions réduites."
+  fr :"Dimensions de la chaîne sans dimensions réduites."
 )
 
 #align(center)[#figure(

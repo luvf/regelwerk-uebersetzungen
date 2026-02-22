@@ -22,7 +22,7 @@
 Les pierres restantes avant le prochain tour doivent être annoncées à voix haute.
 
 Il faut annoncer au moins la 10e, la 5e et les trois dernières pierres.
-Un tour commence avec la pierre suivante et est annoncé par « Jugger !»
+Un tour commence avec la pierre suivante et est annoncé par « Jugger ! »
 Dès le début d'un tour, les joueur·euse·s peuvent entrer sur le terrain.
   ],
 ).at(lang)

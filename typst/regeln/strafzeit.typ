@@ -29,17 +29,17 @@
   fr :[
     Le temps de pénalité indique la durée minimale d'inactivité d'un·e joueur·euse de champ.
     Le temps de pénalité dépend du motif de l'inactivité :
-      - Après une sortie de zone : 5 pierres.
-      - Après une touche valide avec un pompfe court : 5 pierres.
-      - Après un touche valide à la chaîne : 8 pierres.
-      - Après s'être relevé alors qu'il est Épingler : 5 pierres.
+      - après une sortie de zone : 5 pierres ;
+      - après une touche valide avec un Pompfe court : 5 pierres ;
+      - après une touche valide à la chaîne : 8 pierres ;
+      - après s'être relevé alors qu'iel est Épinglé·e : 5 pierres.
 
     Les joueur·euse·s inactif·ve·s doivent compter leur temps de pénalité visiblement à partir de 1, la main dans le dos.
     Si leur temps de pénalité dépasse 5 pierres, iels recommencent à 1 après avoir rempli leur main.
 
-    Les joueur·euse·s de champ inactif·ve·s peuvent commencer à compter leur temps de pénalité à la première pierre qui résonne après s'être agenouillés légalement.
-    S'iels sont Épinglés, les joueur·euse·s inactif·ve·s peuvent continuer à compter leur temps de pénalité sans interruption.
+    Les joueur·euse·s de champ inactif·ve·s peuvent commencer à compter leur temps de pénalité à la première pierre qui résonne après s'être agenouillé·e·s légalement.
+    S'iels sont Épinglé·e·s, les joueur·euse·s inactif·ve·s peuvent continuer à compter leur temps de pénalité sans interruption.
     Cependant, iels doivent recommencer à compter leur temps de pénalité s'ils ne s'agenouillent pas correctement ou s'iels se relèvent trop tôt.
-    Une fois leur temps de pénalité comptabilisé, les joueur·euse·s inactif·ve·s peuvent se lever et ainsi redevenir actifs.
+    Une fois leur temps de pénalité comptabilisé, les joueur·euse·s inactif·ve·s peuvent se lever et ainsi redevenir actif·ve·s.
   ],
 ).at(lang)

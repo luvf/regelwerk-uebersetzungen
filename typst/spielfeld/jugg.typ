@@ -4,7 +4,7 @@
 #let title = (
 	de :[Jugg],
 	en :[Jugg], 
-	fr :[jugg],)
+	fr :[Jugg],)
 #let title=title.at(lang)
 
 
@@ -18,14 +18,14 @@
 
 		Wird mit reduzierten Maßen gespielt, bleiben die Maße für den Jugg unverändert.],
 	en:[todo],
-	fr:[Le Jugg est la balle utilisé au Jugger.
+	fr:[Le Jugg est la balle utilisée au Jugger.
 		Sa longueur est comprise entre #strong[20_cm] et #strong[25_cm].
 		Son diamètre est compris entre #strong[8_cm] et #strong[10_cm].
 		Le poids du Jugg est compris entre #strong[200_g] et #strong[300_g].
 		Le Jugg est fabriqué dans un matériau souple et ne présente aucune arête vive.
 		L'apparence du Jugg importe peu, pourvu qu'il respecte les dimensions spécifiées.
 		
-		Lorsque l'on joue avec dimensions réduites, les dimensions du Jugg restent inchangées.
+		En format réduit, les dimensions du Jugg restent inchangées.
 	],
 )
 

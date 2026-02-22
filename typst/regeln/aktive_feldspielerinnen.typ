@@ -13,8 +13,8 @@
   ],
   en :[TODO], 
   fr :[
-    Seuls les joueur·euse·s actif·ve·s sur le terrain sont autorisés à participer au jeu.  
-    Iels sont autorisés à se déplacer sur le terrain.
+    Seul·e·s les joueur·euse·s actif·ve·s ont l'autorisation de participer au jeu.  
+    Iels sont autorisé·e·s à se déplacer sur le terrain.
 ],
 ).at(lang)
 

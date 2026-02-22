@@ -3,7 +3,7 @@
 #let title = (
   de :[Nebenschiedsrichter*in],
   en :[TODO], 
-  fr :[Arbitre secondaire (asistant)],
+  fr :[Arbitre secondaire (assistant)],
 ).at(lang)
 
 #(
@@ -16,8 +16,8 @@
     TODO
   ], 
   fr :[
-    Outre les fonctions générales des arbitres, l'arbitre secondaire épaule principalement l'arbitre principal dans la gestion du match.
-    Pour observer le jeu, iel se place sur la ligne de touche opposée à celle de l'arbitre principal, à hauteur du ballon.
+    Outre les fonctions générales des arbitres, l'arbitre secondaire épaule l'arbitre principal dans la gestion du match.
+    Pour observer le jeu, iel se place sur la ligne de touche opposée à celle de l'arbitre principal, à hauteur du Jugg.
     Iel observe principalement l'action dans sa propre moitié de terrain et au centre du terrain.
   ],
 ).at(lang)

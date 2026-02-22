@@ -3,7 +3,7 @@
 #let title = (
   de :[Übersicht: Schlüsselbegriffe],
   en :[Overview: Key terms],
-  fr :[Vue d'ensemble: Termes clés],
+  fr :[Vue d'ensemble : termes clés],
 ).at(lang)
 
 #show table.cell.where(y: 0): strong
@@ -60,7 +60,7 @@
     example:(
       de :[Inaktive Pompfer*innen sollten ihre Pompfen flach auf den Boden legen.],
       en :[Inactive pompfens users #strong[should] lay their pompfens flat on the ground.],
-      fr :[Les utilisateur·rice·s de pompfens inactifs #strong[doivent] poser leurs pompons à plat sur le sol.],
+      fr :[Les utilisateur·rice·s de Pompfen inactifs #strong[doivent] poser leurs Pompfen à plat sur le sol.],
     ),
   ),
   must:(
@@ -140,7 +140,7 @@
     keyword :(
       de :[Nicht Dürfen/ Ist Verboten],
       en :[Forbidden/can not],
-      fr :[Interdit/ ne peut pas],
+      fr :[Interdit / ne peut pas],
     ),
     function:(
       de :[Die Handlung ist zu unterlassen. Es ist ein Regelbruch, sie auszuführen. (Gebot / Verbot)],
@@ -151,7 +151,7 @@
     example:(
       de :[Gepinnte Feldspieler*innen dürfen nicht aufstehen. Pompfer*innen ist es verboten, ihre*eigene Pompfe zu werfen.],
       en :[Pinned field players #strong[can not] stand up. Players using a padded weapon are #strong[forbidden] from throwing their own padded weapon.],
-      fr :[Les joueur·euse·s immobilisés sur le terrain #strong[ne peuvent pas] se relever. Les joueurs utilisant une arme rembourrée ont #strong[interdiction] de lancer leur propre arme rembourrée.],
+      fr :[Les joueur·euse·s immobilisé·e·s sur le terrain #strong[ne peuvent pas] se relever.  Les joueur·euse·s  ont #strong[interdiction] de lancer leur Pompfe]
     ),  
   ),
 )
@@ -191,7 +191,7 @@
     example:(
       de :[Aktive Nahpompfer*innen können inaktive, regelkonform abkniende Feldspieler*innen pinnen[...]],
       en :[Active Pompfers #strong[can] pin inactive, legally kneeling field players[...]],
-      fr :[Les pomfeurs·euse·s actifs au corps à corps #strong[peuvent] immobiliser les joueurs de champ inactifs, légalement agenouillés [...]],
+      fr :[Les pomfeurs·euse·s actif·ve·s au corps-à-corps #strong[peuvent] immobiliser les joueur·euse·s de champ inactifs, légalement agenouillé·e·s [...]],
     ),
   ),
   should_not:(
@@ -208,7 +208,7 @@
     example:(
       de :[Eine Kette kann nur regelgerecht geführt werden, wenn die Handschlaufe die Hand oder den Arm des*der Kettenspieler*in berührt.],
       en :[A chain #strong[can not] be led correctly if the hand loop touches the hand or arm of the chain player.],
-      fr :[Une chaîne #strong[ne peut être] utilisé correctement que si la boucle de la main touche la main ou le bras du joueur qui la suit.],
+      fr :[Une chaîne #strong[ne peut être] utilisée correctement que si la boucle de la main touche la main ou le bras du joueur qui la suit.],
     ),
   ),
 )
@@ -241,7 +241,7 @@
     example:(
       de :[Der Jugg ist der Spielball im Jugger.],
       en :[The Jugg is the ball used in Jugger.],
-      fr :[Le Jugger est la balle utilisée dans Jugger..],
+      fr :[Le Jugg est la balle utilisée au Jugger.],
     ),
   ),
   measure:(
@@ -275,7 +275,7 @@
     example:(
       de :[Die Male befinden sich mittig zwischen den Seitenlinien.],
       en :[The marks are located midway between the side lines.],
-      fr :[Les embuts sont situées à mi-chemin entre les lignes latérales.],
+      fr :[Les embuts sont situés à mi-chemin entre les lignes latérales.],
     ),
   ),
   consist :(
@@ -292,7 +292,7 @@
     example:(
       de :[Nahpompfen bestehen aus einem Kernstab und angemessenen Polsterungen.],
       en :[Close-up Pompfens consist of a core rod and appropriate padding.],
-      fr :[Les pompfens de corps à corps sont composés d'une tige centrale et d'un rembourrage approprié.],
+      fr :[Les Pompfen de corps-à-corps sont composés d'une tige centrale et d'un rembourrage approprié.],
     ),
   ),
   composed :(
@@ -309,7 +309,7 @@
     example:(
       de :[Nahpompfen setzen sich aus Griffflächen und rund gepolsterten Schlagflächen zusammen.],
       en :[Close-up pompfens are composed of gripping surfaces and round, padded striking surfaces.],
-      fr :[Les pompfens de corps à corps sont composés de surfaces de préhension et de surfaces de frappe rondes et rembourrées.],
+      fr :[Les Pompfen de corps-à-corps sont composés de surfaces de préhension et de surfaces de frappe rondes et rembourrées.],
     ),
   ),
   divide :(
@@ -326,7 +326,7 @@
     example:(
       de :[Die Feldspieler*innen eines Teams unterteilen sich in Läufer*innen (Qwiks) und Pompfer*innen.],
       en :[The field players of a team are divided into runners (Qwiks) and pummelers.],
-      fr :[Les joueur·euse·s d'une équipe sont divisés en coureur·euse·s (Qwiks) et en enforcer..],
+      fr :[Les joueur·euse·s d'une équipe sont divisé·e·s en coureur·euse·s (Qwiks) et en pompfeur·euse·s.],
     ),
   ),
 )

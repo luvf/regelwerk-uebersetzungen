@@ -33,10 +33,10 @@
     La longueur maximale du bâton est de #strong[180_cm].
     La portée maximale du bâton est de #strong[110_cm].
     La longueur minimale de la surface de frappe est de #strong[90_cm].
-    Le bâton ne peut être utilisé correctement que si les deux mains de l'utilisateur sont en contact avec les poignées et que les deux poignées sont en contact avec les mains de l'utilisateur.
+    Le bâton n'est utilisé correctement que si les deux mains du·de la joueur·euse sont en contact avec les poignées et que les deux poignées sont en contact avec les mains de l'utilisateur·trice.
     Le bâton ne peut pas être utilisé pour les estocs.
     
-    Lorsqu'il est utilisé avec des dimensions réduites, la longueur maximale du bâton est de #strong[135_cm].
+    En format réduit, la longueur maximale du bâton est de #strong[135_cm].
     La portée maximale est alors de #strong[83_cm] et la longueur minimale de la surface de frappe de #strong[68_cm].
     Le manchon reste #strong[1_cm] plus épais que la surface de préhension avant.],
 ).at(lang)

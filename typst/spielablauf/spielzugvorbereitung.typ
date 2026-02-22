@@ -17,10 +17,10 @@
     TODO
   ], 
   fr :[
-    Avant le début d'un tour, le jugg doit être placé au centre du terrain.
+    Avant le début d'un tour, le Jugg doit être placé au centre du terrain.
     Les joueur·euse·s des deux équipes s'alignent à l'extérieur du terrain, sur la ligne de fond opposée au but qu'ils visent.
     Durant cette phase de préparation, les équipes ont le temps de se reposer, de discuter de leurs tactiques et d'effectuer des changements.
-    Les coureur·euse·s et les pompfeur·euse·s peuvent être remplacés autant de fois que nécessaire.
+    Les coureur·euse·s et les pompfeur·euse·s peuvent être remplacé·e·s autant de fois que nécessaire.
   ],
 ).at(lang)
 

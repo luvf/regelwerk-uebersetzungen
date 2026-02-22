@@ -34,9 +34,9 @@
 		La zone située en dehors du terrain de jeu est hors limites.
 		Le centre du terrain de jeu est marqué.
 		La distance entre chaque ligne de fond et l'embut est de #strong[2_m].
-		Les embuts sont situées à mi-chemin entre les lignes de côté.
+		Les embuts sont situés à mi-chemin entre les lignes de côté.
 
-		Lorsque l'on joue avec avec des dimensions réduites, la longueur totale du terrain est de #strong[30_m], sa largeur totale est de #strong[15_m] et la longueur des lignes de fond est de #strong[7,5_m].
+		En format réduit, la longueur totale du terrain est de #strong[30_m], sa largeur totale est de #strong[15_m] et la longueur des lignes de fond est de #strong[7,5_m].
 		La distance entre chaque ligne de fond et la ligne de fond est de #strong[1,5_m].
 	]
 

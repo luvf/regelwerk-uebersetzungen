@@ -3,7 +3,7 @@
 #let title = (
   de :[Abknien],
   en :[Pompfen], 
-  fr :[S'Agenouiller],
+  fr :[S'agenouiller],
 ).at(lang)
 
 #(
@@ -19,10 +19,10 @@
   fr :[
     Pour signaler leur inactivité, les joueur·euse·s doivent s'agenouiller à l'endroit où iels sont inactif·ve·s et y rester jusqu'à leur retour en jeu.
     Un joueur de champ inactif s'agenouille correctement lorsque :
-      - Aucune partie de son corps ne touche la zone hors limites,
-      - Un genou touche le sol.
-      - Une main est derrière le dos.
-Tant qu'iel est correctement agenouillé, iel peut se tourner librement.
+      - aucune partie de son corps ne touche la zone hors limites,
+      - un genou touche le sol,
+      - une main est derrière le dos.
+Tant qu'iel est correctement agenouillé·e, iel peut se tourner librement.
 ],
 ).at(lang)
 

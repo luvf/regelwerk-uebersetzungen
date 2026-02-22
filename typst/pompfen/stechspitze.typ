@@ -23,11 +23,11 @@
     Toutes les surfaces de frappe doivent être munies de pointes.
     La pointe est située à l'extrémité avant de la surface de frappe.
     Le diamètre minimal de la pointe est de 7 cm.
-    La pointe doit être en matériau rembouré et ne doit pas contenir de tige centrale.
+    La pointe doit être en matériau rembourré et ne doit pas contenir de tige centrale.
     Elle doit être suffisamment rigide pour éviter toute déformation latérale, tout en conservant une flexibilité maximale.
     Même enfoncée au maximum, on ne doit pas sentir l'extrémité de l'âme.
 
-    En cas de jeu avec des dimensions réduites, le diamètre minimal de la pointe reste inchangé.
+    En format réduit, le diamètre minimal de la pointe reste inchangé.
   ],
 ).at(lang)
 

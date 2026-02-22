@@ -3,7 +3,7 @@
 #let title = (
   de :[Übersicht: Feld- & Pompfenabmessungen],
   en:[Overview: Field & pompfens Dimensions],
-  fr:[Résumé : Dimensions du terrain et des Pompfens],
+  fr:[Résumé : Dimensions du terrain et des Pompfen],
   )
 #let title = title.at(lang)
 
@@ -39,8 +39,8 @@
 
 === #play_field.at(lang)
 #let play_field_titles=(
-  lenght:(de:[Gesamtlänge], en:[Total Lenght], fr:[Longueur Totale]),
-  width :(de:[Gesamtlänge], en:[Total Width], fr:[Largeur Totale]),
+  lenght:(de:[Gesamtlänge], en:[Total Lenght], fr:[Longueur totale]),
+  width :(de:[Gesamtlänge], en:[Total Width], fr:[Largeur totale]),
   base : (de:[Länge der Grundlinie], en:[Length of baseline], fr:[Longueur de la ligne de base]),
   goal_distance :(de:[Abstand des Mals zur Grundlinie], en:[Distance of the goal from the baseline], fr:[Distance de l'embut par rapport à la ligne de base]),
 )
@@ -62,15 +62,15 @@
 
 #let pompfen_titles =(
   lenght:(
-    de:[Maximale Länge], en:[Maximum length], fr:[Longueur Maximale]),
+    de:[Maximale Länge], en:[Maximum length], fr:[Longueur maximale]),
   reach :(
-    de:[Maximale Reichweite], en:[Maximum reach], fr:[Portée Maximale]),
+    de:[Maximale Reichweite], en:[Maximum reach], fr:[Portée maximale]),
   ball_diameter : (
-    de:[Kettenball-Durchmesser], en:[Chain ball diameter], fr:[Diamètre des boules de la chaine]),
+    de:[Kettenball-Durchmesser], en:[Chain ball diameter], fr:[Diamètre des boules de la chaîne]),
   chain_handle :(
     de:[Maximale Handschlaufenlänge], en:[Maximum hand loop length], fr:[Longueur maximale de la poignée]),
   max_len_chain:(
-    de:[Maximale Kettenstranglänge], en:[Maximum chain strand length], fr:[Longueur maximale de la chaine sans la balle]),
+    de:[Maximale Kettenstranglänge], en:[Maximum chain strand length], fr:[Longueur maximale de la chaîne sans la balle]),
   strike_len : (
     de:[Minimale Schlagflächenlänge], en:[Minimum striking face length], fr:[Longueur minimale de la surface de frappe]),
   pompf_handle :(
@@ -106,7 +106,7 @@
 #let chain = (
   de :[Kette],
   en :[Chain],
-  fr :[Chaine],
+  fr :[Chaîne],
 )
 === #chain.at(lang)
 #table(
@@ -121,7 +121,7 @@
 #let short_pompf = (
   de :[Kurzpompfe],
   en :[Short Pompfen],
-  fr :[Pompfen Court],
+  fr :[Pompfe court],
 )
 === #short_pompf.at(lang)
 #let short_long_titles=(
@@ -138,7 +138,7 @@
 #let long_pompf = (
   de :[Langpompfe],
   en :[Long Pompfen],
-  fr :[Pompfen Long],
+  fr :[Pompfe long],
 )
 === #long_pompf.at(lang)
 #table(
@@ -152,7 +152,7 @@
 #let qtip = (
   de :[Q-Tip],
   en :[Q-Tip],
-  fr :[Cotton Tige],
+  fr :[Coton-tige],
 )
 === #qtip.at(lang)
 #table(

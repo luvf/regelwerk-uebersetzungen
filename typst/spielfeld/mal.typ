@@ -17,13 +17,13 @@
 		Wird mit reduzierten Maßen gespielt, bleiben die Maße für die Male unverändert.],
 	en:[],
 	fr:[
-		L'ebmut est le but du jugger.
+		L'embut est le but du Jugger.
 		Il a la forme d'un cône tronqué avec une ouverture dans laquelle on place le Jugg.
 		Le diamètre de la base du cône est d'au moins #strong[30_cm].
 		Le diamètre de l'ouverture est d'environ #strong[12_cm] et sa profondeur d'environ #strong[20_cm].
 		L'embut est entièrement rembourré et ne présente aucune arête vive.
 
-		Lorsque l'on joue avec des dimensions réduites, les dimensions de l'embut restent inchangées.
+		En format réduit, les dimensions de l'embut restent inchangées.
 	],
 ).at(lang)
 
@@ -31,7 +31,7 @@
 #let caption_text=(
 	de:"Beispielhaftes Mal",
 	en:"TODO",
-	fr:"Exemple d'Embut",
+	fr:"Exemple d'embut",
 )
 
 #figure(image("/typst/images/mal.jpg"), caption: caption_text.at(lang))

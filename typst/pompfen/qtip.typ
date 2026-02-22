@@ -3,7 +3,7 @@
 #let title = (
   de :[Q-Tip],
   en :[Q-Tip], 
-  fr :[Cotton Tige (Q-tip)],
+  fr :[Coton-tige (Q-tip)],
 ).at(lang)
 
 #(
@@ -30,7 +30,7 @@
   La portée maximale du coton-tige est de #strong[140_cm].
   La longueur minimale des surfaces de frappe, pointe comprise, est de #strong[55_cm].
   La longueur maximale de la poignée est de #strong[80_cm].
-  Le coton-tige ne peut être utilisé correctement que si les mains du joueur sont en contact avec la poignée.
+  Le coton-tige n'est utilisé correctement que si les mains du·de la joueur·euse sont en contact avec la poignée.
   Le coton-tige peut être utilisé pour l'estoc.
 
   En format réduit, la longueur maximale du coton-tige est de #strong[150_cm].

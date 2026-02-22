@@ -9,7 +9,7 @@
 #let introduction=(
   de:"",
   en:"",
-  fr:"Nous reprenons ici des termes spécifiques importants dans les règles et présentons leurs traduction avec le terme original, pour éviter toute ambiguité mais aussi pour fluidifier la compréhention du texte."
+  fr:"Nous reprenons ici les termes spécifiques importants dans les règles et présentons leurs traductions avec le terme original, pour éviter toute ambiguïté mais aussi pour fluidifier la compréhension du texte."
 ).at(lang)
 
 #show table.cell.where(y: 0): strong
@@ -45,7 +45,7 @@
     notes:(
       de:"",
       en:"",
-      fr:"Usage au singulier est pompfe, au pluriel pompfen, ",
+      fr:"L'usage au singulier est Pompfe, au pluriel Pompfen, ",
     )
   ),
   nahpompfe:(
@@ -58,7 +58,7 @@
     notes:(
       de:"",
       en:"",
-      fr:"Sauf chaine et bouclier. lit: pompfe de corps a corps",
+      fr:"Sauf chaîne et bouclier. lit: Pompfe de corps-à-corps",
     )
   ),
   feldspieler:(
@@ -71,7 +71,7 @@
     notes:(
       de:"",
       en:"",
-      fr:"Le terme décrit littéralement joueur de champ, nous préfèrerons donner le qualificatifs de joueur·euse remplaçant·e·s pour les autres joueurs",
+      fr:"Le terme décrit littéralement un joueur de champ, nous préférerons donner le qualificatif de joueur·euse remplaçant·e pour les autres joueurs",
     )
   ),
   pompfer:(
@@ -84,7 +84,7 @@
     notes:(
       de:"",
       en:"",
-      fr:"Décrit tout joueur avec un pompfe, droit ou chaine.",
+      fr:"Décrit tout joueur avec un Pompfe, droit ou chaîne.",
     )
   ),
   enforcer:(
@@ -97,7 +97,7 @@
     notes:(
       de:"",
       en:"",
-      fr:"Décrit tout joueur avec un pompfe droit, le terme est trop long pour être utiliser tel quel. .",
+      fr:"Décrit tout joueur avec un Pompfe droit, le terme est trop long pour être utilisé tel quel.",
     )
   ),
   hit_area:(
@@ -124,7 +124,7 @@
     notes:(
       de:"",
       en:"",
-      fr:"La surface avec laquelle un arme peut toucher. On aurait pu utiliser surface de touche, l'utilisation du terme frappe lève toute ambigüité avec le zone de touche.",
+      fr:"La surface avec laquelle une arme peut toucher. On aurait pu utiliser surface de touche mais l'utilisation du terme frappe lève toute ambiguïté avec la zone de touche.",
     )
   ),
 
@@ -147,12 +147,12 @@
     translation:(
       de:"",
       en:"",
-      fr:"Epingler",
+      fr:"Épingler",
     ),
     notes:(
       de:"",
       en:"",
-      fr:"Le terme épingler est la traduction litérale.",
+      fr:"Le terme épingler est la traduction littérale.",
     )
   ),
 

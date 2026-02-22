@@ -20,15 +20,15 @@
   ],
   en :[TODO], 
   fr :[
-La surface de frappe est la zone ronde et rembourrée d'un pompfe droit, permettant de frapper et de bloquer efficacement.
+La surface de frappe est la zone ronde et rembourrée d'un Pompfe droit, permettant de frapper et de bloquer efficacement.
 Le diamètre minimal de la surface de frappe est d'au moins #strong[6_cm] sur toute sa longueur.
 La surface de frappe doit être entièrement rembourrée.
-La tige centrale (âme) ne doit être perceptible à aucun point à travers le rembourrage de la surface de frappe lorsqu'une pression modérée du pouce est appliquée.
+La tige centrale (âme) ne doit pas être perceptible à travers le rembourrage de la surface de frappe lorsqu'une pression modérée du pouce est appliquée.
 
 L'extrémité arrière de la surface de frappe se situe du côté faisant face à la poignée.
 Une pointe doit être présente à l'extrémité avant de la surface de frappe.
 
-Lorsqu'on joue avec des dimensions réduites, le diamètre minimal de la surface de frappe reste inchangé.],
+En format réduit, le diamètre minimal de la surface de frappe reste inchangé.],
 ).at(lang)
 
 

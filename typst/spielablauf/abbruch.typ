@@ -3,7 +3,7 @@
 #let title = (
   de :[Abbruch],
   en :[TODO], 
-  fr :[Arret de jeu],
+  fr :[Arrêt de jeu],
 ).at(lang)
 
 #(
@@ -20,12 +20,12 @@
     TODO
   ], 
   fr :[
-    Le jeu doit être interrompu dès que la sécurité ou le fair-play des joueurs ne sont plus garantis, par exemple en raison de :
-    - une blessure,
-    - un comportement antisportif, ou
-    - un nombre excessif de joueur·euse·s, de personnes non autorisées, d'animaux ou d'objets dangereux sans rapport avec le jeu sur le terrain.
-Le jeu peut également être interrompu si un pompfe est endommagée.
-Lors d'un match disputé en sets, le jeu peut également être interrompu en cas de situation bloqué (pat).
+    Le jeu doit être interrompu dès que la sécurité ou le fair-play des joueur·euse·s ne sont plus garantis, par exemple en raison :
+    - d'une blessure ;
+    - d'un comportement antisportif ;
+    - d'un nombre excessif de joueur·euse·s, de personnes non autorisées, d'animaux ou d'objets dangereux sans rapport avec le jeu sur le terrain.
+Le jeu peut également être interrompu si un Pompfe est endommagé.
+Lors d'un match disputé en sets, le jeu peut également être interrompu en cas de situation bloquée (pat).
 La décision d'interrompre le jeu est généralement prise par l'arbitre principal.
   ],
 ).at(lang)

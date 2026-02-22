@@ -3,7 +3,7 @@
 #let title = (
   de :[Hauptschiedsrichter*in (Spielleitung)],
   en :[TODO], 
-  fr :[Arbitre Principal],
+  fr :[Arbitre principal],
 ).at(lang)
 
 #(
@@ -25,12 +25,12 @@
   fr :[
     L'arbitre principal tranche en cas de désaccord entre les arbitres.
     Outre leurs fonctions habituelles, les arbitres sont responsables de la gestion du jeu : ils initient chaque tour et confirment aux arbitres d'embut l'attribution des points.
-    Iel annonce le score avant chaque échange et, dans les jeux en pierres, le temps de jeu restant.
-    En cas de retard lors de la préparation d'un tour, ils peuvent accélérer le début d'un tour. 
+    L'arbitre principal annonce le score avant chaque échange et, dans les jeux aux pierres, le temps de jeu restant.
+    En cas de retard lors de la préparation d'un tour, iel peut accélérer le début d'un tour. 
     Iel veille également à ce que la pause entre deux mi-temps ou deux sets n'excède pas 5 minutes.
-    Dans un jeu aux pierres, iels annoncent le « Jugg en Or» si le score est à égalité à la fin du temps réglementaire.
-    Iels s'assurent que tous les joueur·euse·s et officiels soient immédiatement informés de toute interruption.
-    Si une équipe commence prématurément, l'arbitre principal émet un avertissement, ainsi que la posession du jugg à l'équipe adverse. Pour observer le jeu, iel se place le long de la ligne de touche.
+    Dans un jeu aux pierres, iel annonce le « Jugg d'or» si le score est à égalité à la fin du temps réglementaire.
+    Iel s'assure que tou·te·s les joueur·euse·s et officiels soient immédiatement informés de toute interruption.
+    Si une équipe commence prématurément, l'arbitre principal émet un avertissement et déclare la possession du Jugg à l'équipe adverse. Pour observer le jeu, iel se place le long de la ligne de touche.
     Iel observe principalement l'action sur son côté du terrain et au centre du terrain.
   ],
 ).at(lang)

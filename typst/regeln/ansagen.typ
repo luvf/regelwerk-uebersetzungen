@@ -22,13 +22,13 @@
     TODO
   ], 
   fr :[
-    Les Joueur·euse·s de doivent annoncer les doubles coups en disant « Double !»
-    Iels peuvent être aidés par des arbitres.
+    Les joueur·euse·s doivent annoncer les doubles coups en disant « Double ! »
+    Iels peuvent être aidé·e·s par des arbitres.
     
     Si un tir est placé en dehors de la zone de touche, les joueurs touchés doivent l'annoncer.
-    touches à la tête doivent être annoncés par « Tête !» et les touches sur une main touchant un pompfe par « Main !».
+    Les touches à la tête doivent être annoncées par « Tête ! » et les touches à la une main par « Main ! ».
 
-    Si des Joueur·euse·s effectuent des touche non valides, iels doivent en informer les Joueur·euse·s touchés.
+    Si des joueur·euse·s effectuent des touches non valides, iels doivent en informer les joueur·euse·s touché·e·s.
     Toutes les annonces doivent être faites aussi rapidement, fort et clairement que possible.
     ]
 
