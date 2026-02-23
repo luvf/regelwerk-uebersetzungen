@@ -28,12 +28,12 @@
     Les joueur·euse·s inactif·ve·s doivent s'agenouiller dès que possible pour que leur pénalité soit comptabilisée ; si nécessaire, iels doivent retourner sur le terrain pour ce faire.
 
     Si leur corps est enchaîné, iels doivent aider à défaire la chaîne.
-    Iels peuvent communiquer avec les autres joueurs s'iels le souhaitent.
+    Iels peuvent communiquer avec les autres joueur·euse·s s'iels le souhaitent.
     Les joueur·euse·s inactif·ve·s n'ont pas le droit de participer au jeu.
 
     En particulier, il leur est interdit :
     - de se déplacer sur le terrain ;
-    - d'empêcher les joueur·euse·s de champ actif·ve·s de participer au jeu.
+    - d'empêcher les joueur·euse·s actif·ve·s de participer au jeu.
   ],
 ).at(lang)
 

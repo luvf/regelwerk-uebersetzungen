@@ -20,7 +20,7 @@
     Les coureur·euse·s inactif·ve·s doivent immédiatement libérer le Jugg.
     Iels deviennent actif·ve·s lorsqu'iels déplacent le Jugg ou le touchent avec la main.
     Il leur est interdit de cacher le Jugg ou de le recouvrir de leur corps.
-    Le Jugg doit rester accessible aux autres joueurs sur le terrain.
+    Le Jugg doit rester accessible aux autres joueur·euse·s sur le terrain.
   ],
 ).at(lang)
 

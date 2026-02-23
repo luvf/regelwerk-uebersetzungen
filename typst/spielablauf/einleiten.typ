@@ -3,7 +3,7 @@
 #let title = (
   de :[Spielzug einleiten],
   en :[TODO], 
-  fr :[Entre deux tours],
+  fr :[Entre deux points],
 ).at(lang)
 
 #(
@@ -18,12 +18,12 @@
     TODO
   ], 
   fr :[
-    Pour marquer une limite de temps entre les tours, le meneur de jeu (arbitre principal) peut effectuer un décompte.
-Les pierres restantes avant le prochain tour doivent être annoncées à voix haute.
+    Pour marquer une limite de temps entre les points, le meneur de jeu (arbitre principal) peut effectuer un décompte.
+Les pierres restantes avant le prochain point doivent être annoncées à voix haute.
 
 Il faut annoncer au moins la 10e, la 5e et les trois dernières pierres.
-Un tour commence avec la pierre suivante et est annoncé par « Jugger ! »
-Dès le début d'un tour, les joueur·euse·s peuvent entrer sur le terrain.
+Un point commence avec la pierre suivante et est annoncé par « Jugger ! »
+Dès le début d'un point, les joueur·euse·s peuvent entrer sur le terrain.
   ],
 ).at(lang)
 

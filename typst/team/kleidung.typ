@@ -20,13 +20,13 @@
     TODO
   ], 
   fr :[
-    Tou·te·s les joueur·euse·s et officiels de match doivent se couvrir le torse avec un ou plusieurs vêtements et porter des vêtements pour les jambes (short compris).
+    Tou·te·s les joueur·euse·s et arbitres doivent se couvrir le torse avec un ou plusieurs vêtements et porter des vêtements pour les jambes (short compris).
     Sur le terrain tou·te·s les joueur·euse·s doivent porter des chaussures
     Les bijoux doivent être retirés ou, si cela est impossible, recouverts de ruban adhésif.
     
     Les joueur·euse·s peuvent porter des vêtements de protection.
     Les vêtements et protections en plastique dur ou en matériaux similaires ou plus durs sont interdits.
-    Les coquilles et dispositifs médicaux sont autorisés, à condition qu'ils n'aient pas d'arêtes vives et qu'ils soient suffisamment rembourrés.
+    Les coquilles et dispositifs médicaux sont autorisés, à condition qu'ils n'aient pas d'arêtes rigides et qu'ils soient suffisamment rembourrés.
   ],
 ).at(lang)
 

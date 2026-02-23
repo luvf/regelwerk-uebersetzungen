@@ -3,7 +3,7 @@
 #let title = (
   de :[Übersicht: Feld- & Pompfenabmessungen],
   en:[Overview: Field & pompfens Dimensions],
-  fr:[Résumé : Dimensions du terrain et des Pompfen],
+  fr:[Résumé : Dimensions du terrain et des pompfen],
   )
 #let title = title.at(lang)
 

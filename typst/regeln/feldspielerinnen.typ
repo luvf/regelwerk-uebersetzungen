@@ -26,14 +26,14 @@
   ], 
   fr :[
     L'état d'un·e joueur·euse sur le terrain peut être actif ou inactif.
-    Au début d'un tour, tou·te·s les joueur·euse·s sont actif·ve·s.
+    Au début d'un point, tou·te·s les joueur·euse·s sont actif·ve·s.
 		Iels deviennent inactif·ve·s lorsqu'iels sont touchés légalement ou lorsqu'iels franchissent les limites du terrain.
 
-		Il est interdit aux joueur·euse·s de champ :
+		Il est interdit aux joueur·euse·s :
 			- d'utiliser une force excessive ;
 			- de courir ou de sauter sur d'autres joueur·euse·s sans ralentir. Autrement dit, iels doivent s'arrêter avant toute collision potentielle ;
 			- de tirer brusquement sur une chaîne tendue enroulée autour d'un Pompfe ou d'une partie du corps ;
-			- de déplacer le Jugg hors des limites du terrain afin qu'il soit inaccessible aux autres joueurs ;
+			- de déplacer le Jugg hors des limites du terrain afin qu'il soit inaccessible aux autres joueur·euse·s ;
 			- de déplacer le Jugg avec leurs pieds ;
 			- de déplacer l'embut de son emplacement désigné ;
 			- de bloquer l'ouverture de l'embut, que ce soit avec leur corps ou avec un Pompfe.

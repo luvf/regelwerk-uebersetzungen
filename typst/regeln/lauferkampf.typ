@@ -42,7 +42,7 @@
     - de foncez sur un adversaire en courant ou en lui sautant dessus ;
     - de tirer un adversaire par ses vêtements.
     Si les deux équipes sont d'accord avant le début de la partie, des règles alternatives de combat en course peuvent être établies.
-    Les officiels de la partie peuvent refuser ces accords.
+    Les arbitres du match peuvent refuser ces accords.
   ],
 ).at(lang)
 

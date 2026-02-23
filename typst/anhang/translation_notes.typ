@@ -71,7 +71,7 @@
     notes:(
       de:"",
       en:"",
-      fr:"Le terme décrit littéralement un joueur de champ, nous préférerons donner le qualificatif de joueur·euse remplaçant·e pour les autres joueurs",
+      fr:"Le terme décrit littéralement un joueur·euse de champ, nous préférerons donner le qualificatif de joueur·euse remplaçant·e pour les autres joueur·euse·s",
     )
   ),
   pompfer:(
@@ -84,7 +84,7 @@
     notes:(
       de:"",
       en:"",
-      fr:"Décrit tout joueur avec un Pompfe, droit ou chaîne.",
+      fr:"Décrit tout joueur·euse avec un Pompfe, droit ou chaîne.",
     )
   ),
   enforcer:(
@@ -97,7 +97,7 @@
     notes:(
       de:"",
       en:"",
-      fr:"Décrit tout joueur avec un Pompfe droit, le terme est trop long pour être utilisé tel quel.",
+      fr:"Décrit tout joueur·euse avec un Pompfe droit, le terme est trop long pour être utilisé tel quel.",
     )
   ),
   hit_area:(
@@ -110,7 +110,7 @@
     notes:(
       de:"",
       en:"",
-      fr:"La zone sur le joueur qui peut être touchée.",
+      fr:"La zone sur le joueur·euse qui peut être touchée.",
     )
   ),
 

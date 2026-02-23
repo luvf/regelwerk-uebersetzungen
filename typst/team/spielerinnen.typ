@@ -33,7 +33,7 @@
   fr :[
     Les joueur·euse·s d'une équipe sont divisés en coureurs (Qwiks) et en pompfeur·euse·s.
     Les coureurs ne portent pas de Pompfe ; ce sont les seul·e·s joueur·euse·s autorisé·e·s à porter, lancer et placer le Jugg.
-    Pendant leur tour, les pompfeur·euse·s portent les Pompfen qu'ils utilisent pour entrer sur le terrain.
+    Pendant un point les pompfeur·euse·s portent les Pompfen qu'ils utilisent pour entrer sur le terrain.
 
     Un pompfeur·euse doit porter soit:
     - une chaîne ;
@@ -42,8 +42,8 @@
     - un coton-tige ;
     - deux Pompfen courts ;
     - un Pompfe court et un bouclier. 
-    Les Pompfen portés par les pompfeur·euse·s ne peuvent changer pendant un tour que pour remplacer un Pompfe endommagé ou non conforme.
-    Un pompfeur·euse portant une chaîne est un joueur de chaîne.
+    Les Pompfen portés par les pompfeur·euse·s ne peuvent changer pendant un point que pour remplacer un Pompfe endommagé ou non conforme.
+    Un pompfeur·euse portant une chaîne est un joueur·euse de chaîne.
     Tous les autres pompfeur·euse·s sont des enforceur·euse·s.
 
     Dans une équipe, il ne peut y avoir qu'un·e seul·e coureur·euse.

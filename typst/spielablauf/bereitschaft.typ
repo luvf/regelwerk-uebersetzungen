@@ -17,10 +17,10 @@
     TODO
   ], 
   fr :[
-    Les coureur·euse·s peuvent lever le bras pour signaler que leur équipe est prête à commencer le tour suivant.
-Une fois que les coureur·euse·s des deux équipes ont levé le bras, le meneur de jeu (arbitre) lance le compte à rebours du tour suivant en criant : « Attention ! 3-2-1-Jugger ! »
+    Les coureur·euse·s peuvent lever le bras pour signaler que leur équipe est prête à commencer le point suivant.
+Une fois que les coureur·euse·s des deux équipes ont levé le bras, le meneur de jeu (arbitre) lance le compte à rebours du point suivant en criant : « Attention ! 3-2-1-Jugger ! »
 
-Ce signal de départ doit être donné en même temps que cinq coups de pierre consécutifs, et le tour commence lorsque la pierre est frappée au signal « Jugger ! »
+Ce signal de départ doit être donné en même temps que cinq coups de pierre consécutifs, et le point commence lorsque la pierre est frappée au signal « Jugger ! »
   ],
 ).at(lang)
 

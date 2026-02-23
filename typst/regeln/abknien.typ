@@ -18,7 +18,7 @@
   en :[TODO], 
   fr :[
     Pour signaler leur inactivité, les joueur·euse·s doivent s'agenouiller à l'endroit où iels sont inactif·ve·s et y rester jusqu'à leur retour en jeu.
-    Un joueur de champ inactif s'agenouille correctement lorsque :
+    Un joueur·euse inactif s'agenouille correctement lorsque :
       - aucune partie de son corps ne touche la zone hors limites,
       - un genou touche le sol,
       - une main est derrière le dos.

@@ -29,11 +29,11 @@
     Les deux poignées sont situées à l'arrière du bâton et séparées par le manchon.
     La poignée arrière se trouve entre le pommeau et le manchon, et la poignée avant entre le manchon et la surface de frappe.
     Le manchon doit clairement délimiter la portée maximale du bâton et être plus épaisse d'au moins 1 cm que la poignée avant.
-    Comme toutes les parties du bâton, le manchon ne doit présenter aucune arête vive.
+    Comme toutes les parties du bâton, le manchon ne doit présenter aucune arête rigide.
     La longueur maximale du bâton est de #strong[180_cm].
     La portée maximale du bâton est de #strong[110_cm].
     La longueur minimale de la surface de frappe est de #strong[90_cm].
-    Le bâton n'est utilisé correctement que si les deux mains du·de la joueur·euse sont en contact avec les poignées et que les deux poignées sont en contact avec les mains de l'utilisateur·trice.
+    #emph(text(blue)[Le bâton n'est utilisé correctement que si les deux mains du·de la joueur·euse sont en contact avec les poignées et que les deux poignées sont en contact avec les mains de l'utilisateur·trice #strong[ attente retour rulekeeper ].])
     Le bâton ne peut pas être utilisé pour les estocs.
     
     En format réduit, la longueur maximale du bâton est de #strong[135_cm].

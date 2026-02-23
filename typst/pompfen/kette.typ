@@ -26,21 +26,21 @@
   ],
   en :[TODO], 
   fr :[
-  La chaîne se compose d'une boucle, d'une lanière et d'une boule.
-  La boule est située à l'extrémité avant de la chaîne.
-  La boucle est située à l'extrémité arrière.
+    La chaîne se compose d'une boucle, d'une lanière et d'une boule.
+    La boule est située à l'extrémité avant de la chaîne.
+    La boucle est située à l'extrémité arrière.
 
-  La portée maximale de la chaîne est égale à sa longueur maximale et est de #strong[320_cm].
-  La longueur maximale de la boucle est de #strong[30_cm].
-  La boule est en matériau rembourré et a un diamètre minimal de #strong[19_cm].
-  La lanière doit être entièrement rembourrée.
-  Le rembourrage ne doit pas glisser.
-  
-  Une chaîne n'est utilisée correctement que si la boucle touche la main ou le bras du joueur.
-  La chaîne ne peut pas être utilisée pour épingler.
+    La portée maximale de la chaîne est égale à sa longueur maximale et est de #strong[320_cm].
+    La longueur maximale de la boucle est de #strong[30_cm].
+    La boule est en matériau rembourré et a un diamètre minimal de #strong[19_cm].
+    La lanière doit être entièrement rembourrée.
+    Le rembourrage ne doit pas se déplacer le long de la chaîne.
+    
+    Une chaîne n'est utilisée correctement que si la boucle touche la main ou le bras du joueur.
+    La chaîne ne peut pas être utilisée pour épingler.
 
-  En format réduit, la longueur maximale de la chaîne est de #strong[240_cm].
-  Le diamètre minimal de la boule et la longueur de la boucle restent inchangés.],
+    En format réduit, la longueur maximale de la chaîne est de #strong[240_cm].
+    Le diamètre minimal de la boule et la longueur de la boucle restent inchangés.],
 ).at(lang)
 
 

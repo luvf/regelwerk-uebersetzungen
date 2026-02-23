@@ -31,7 +31,7 @@
   La longueur minimale de la surface de frappe, pointe comprise, est de #strong[60_cm].
   Le Pompfe court s'utilise avec un bouclier ou un second Pompfe court.
 
-  Le Pompfe court n'est utilisé correctement que si la main du joueur est en contact avec le manche.
+  Le Pompfe court n'est utilisé correctement que si la main du joueur·euse est en contact avec le manche.
   Le Pompfe court peut être utilisé pour l'estoc.
 
     En format réduit, la longueur maximale du Pompfe court est de #strong[64_cm].

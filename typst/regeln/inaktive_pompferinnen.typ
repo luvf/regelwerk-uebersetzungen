@@ -25,7 +25,7 @@
     Il leur est interdit de toucher ou d'épingler les autres joueur·euse·s.
     Iels peuvent tenir leur bouclier en posant n'importe quelle partie du corps au sol.
     L'extrémité d'une chaîne peut être soulevée du sol.
-    Si leur Pompfe est enroulé autour d'une chaîne, ou si leur chaîne est enroulée autour d'un Pompfe, iels doivent aider à le démêler ou le lâcher pour ne pas gêner l'autre joueur.euse.
+    Si leur Pompfe est enroulé autour d'une chaîne, ou si leur chaîne est enroulée autour d'un Pompfe, iels doivent aider à le démêler ou le lâcher pour ne pas gêner l'autre joueur·euse.
     S'iels ont perdu leur Pompfe, il leur est interdit de le récupérer.
     Les joueur·euse·s inactif·ve·s deviennent actif·ve·s lorsqu'iels déplacent le Jugg.
   ],

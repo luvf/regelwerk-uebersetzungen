@@ -34,7 +34,7 @@
     Iels assurent la continué du jeu si le Jugg est placé illégalement.
     Tous les arbitres peuvent pénétrer sur le terrain pour exercer leurs fonctions, mais ne doivent pas gêner les déplacements des joueur·euse·s.
     En complément de ces règles, un guide à l'intention des arbitres est disponible à l'adresse suivante : #weblink(url: "https://www.jugger.org/files/public/public/leitfaden-fuer-schiedsrichter.pdf", display: "jugger.org (en allemand)" ). Ce guide aborde plus en détail les différentes situations de jeu et les actions possibles.
-    Il est recommandé de se familiariser avec ce guide, même s'il ne fait pas partie du règlement officiel.
+    Il est recommandé de se familiariser avec ce guide, même s'il ne fait pas partie du règlement officel.
   ],
 ).at(lang)
 
