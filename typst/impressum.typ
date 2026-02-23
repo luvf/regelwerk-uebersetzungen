@@ -49,20 +49,20 @@ CC 2025 Deutscher Jugger Sportverband \
 		Bearbeitung des Satzes (13. Ausgabe 2026):
 		Helene Glöckner, Mario Treiber und Max Vogel
 	],
- 	fr :[#enum(enum.item(13)[Édition révisée 2026. Publié par: Deutscher Jugger Verband.\ Édité par : Helene Glöckner, Mario Treiber, Max Vogel.])
+ 	fr :[#enum(enum.item(13)[Édition révisée 2026. Publiée par: Deutscher Jugger Verband.\ Éditée par : Helene Glöckner, Mario Treiber, Max Vogel.])
 
-		+ Édition 2007. Publiée par: Drachenblut-Forum \ Editée par : Ruben Wickenhäuser, Jakob Senst
-		+ Édition 2010. Publiée par: Jugger-Community. \ Editée par : Ruben Wickenhäuser
-		+ Édition 2012. Publiée par: Jugger-Community. \ Editée par : Ruben Wickenhäuser
-		+ Édition entièrement révisée 2014. \ Editée par : Stefan Böhme, Peter Pflugrad, Siegfried Urschel, Johanna von Nathusius.
-		+ Édition entièrement révisée 2015. Publiée par: Jugger-Community. \ Editée par : Tobias Doßmann, Johanna von Nathusius, Aaron Wilde.
-		+ Édition révisée 2016. Publiée par: Jugger-Community. \ Editée par: Felix Schiller, Johanna von Nathusius, Aaron Wilde.
-		+ Édition révisée 2017. Publiée par: Jugger-Community. \ Editée par: Felix Schiller, Johanna von Nathusius, Aaron Wilde.
-		+ Édition révisée 2018. Publiée par: Jugger-Community. \ Editée par: Felix Schiller, Johanna von Nathusius, Aaron Wilde.
-		+ Édition révisée 2020. Publiée par: Jugger Community.\ Editée par: Felix Schiller, Johanna von Nathusius, Aaron Wilde.
-		+ Édition révisée 2021. Publiée par: Jugger Community.\ Editée par: Pit Albert, Jens-Cédric Höpfer, Manuel Kubat, Sarah Licht.
-		+ Édition révisée 2023. Publiée par: Jugger Community.\ Editée par: Pit Albert, Manuel Kubat, Felix Lang.
-		+ Édition révisée 2025. Publiée par: Jugger Community.\ Editée par: Pit Albert, Manuel Kubat
+		+ Édition 2007. Publiée par: Drachenblut-Forum \ Éditée par : Ruben Wickenhäuser, Jakob Senst
+		+ Édition 2010. Publiée par: Jugger-Community. \ Éditée par : Ruben Wickenhäuser
+		+ Édition 2012. Publiée par: Jugger-Community. \ Éditée par : Ruben Wickenhäuser
+		+ Édition entièrement révisée 2014. \ Éditée par : Stefan Böhme, Peter Pflugrad, Siegfried Urschel, Johanna von Nathusius.
+		+ Édition entièrement révisée 2015. Publiée par: Jugger-Community. \ Éditée par : Tobias Doßmann, Johanna von Nathusius, Aaron Wilde.
+		+ Édition révisée 2016. Publiée par: Jugger-Community. \ Éditée par: Felix Schiller, Johanna von Nathusius, Aaron Wilde.
+		+ Édition révisée 2017. Publiée par: Jugger-Community. \ Éditée par: Felix Schiller, Johanna von Nathusius, Aaron Wilde.
+		+ Édition révisée 2018. Publiée par: Jugger-Community. \ Éditée par: Felix Schiller, Johanna von Nathusius, Aaron Wilde.
+		+ Édition révisée 2020. Publiée par: Jugger Community.\ Éditée par: Felix Schiller, Johanna von Nathusius, Aaron Wilde.
+		+ Édition révisée 2021. Publiée par: Jugger Community.\ Éditée par: Pit Albert, Jens-Cédric Höpfer, Manuel Kubat, Sarah Licht.
+		+ Édition révisée 2023. Publiée par: Jugger Community.\ Éditée par: Pit Albert, Manuel Kubat, Felix Lang.
+		+ Édition révisée 2025. Publiée par: Jugger Community.\ Éditée par: Pit Albert, Manuel Kubat
 
 
 		Composition, mise en page, illustration et page de couverture:
