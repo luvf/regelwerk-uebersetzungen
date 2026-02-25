@@ -22,8 +22,8 @@
   ], 
   fr :[
     Les enforceur·euse·s actif·ve·s peuvent Épingler les joueur·euse·s inactif·ve·s, agenouillé·e·s légalement.
-    Chaque enforceur·euse actif·ve peut Épingler un seul joueur·euse à la fois.
-    Pour Épingler un joueur·euse, iel le fait en touchant la zone de touche du joueur·euse inactif avec la surface de frappe de son Pompfe, utilisé légalement.
+    Chaque enforceur·euse actif·ve peut Épingler un·e seul·e joueur·euse à la fois.
+    Pour Épingler un·e joueur·euse, iel le fait en touchant la zone de touche du·de la joueur·euse inactif avec la surface de frappe de son Pompfe, utilisé légalement.
     L'Épinglage se poursuit tant que le Pompfe touche la·le joueur·euse inactif·ve de cette manière.
     L'enforceur·euse actif·ve peut interrompre l'immobilisation à tout moment, par exemple pour toucher des joueur·euse actif·ve·s ou Épingler d'autres joueur·euse·s, puis reprendre.
     Un·e enforceur·euse actif·ve dont le Pompfe est entouré d'une chaîne ne peut pas Épingler.

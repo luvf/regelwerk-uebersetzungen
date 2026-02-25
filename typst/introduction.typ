@@ -10,7 +10,7 @@
     Getroffene Spieler*innen dürfen für eine festgelegte Dauer nicht mehr am Spiel teilnehmen.
     So können die vier Pompfer*innen den*die eigene*n Läufer*in beim Punkten unterstützen.],
   en :"TODO",
-  fr : [#heading(numbering: none, outlined: false)[Explication Brève: Qu'est-ce que le Jugger ?]
+  fr : [#heading(numbering: none, outlined: false)[Explication Brève : Qu'est-ce que le Jugger ?]
     Le Jugger est un sport d'équipe où le but est de marquer des buts en plaçant une balle (Jugg) dans l'embut adverse le plus souvent possible.
     Une équipe est composée de cinq joueur·euse·s sur le terrain et de trois remplaçant·e·s maximum.
     Seul·e la·e porteur·euse de balle, appelé la·e coureur·euse, est autorisé·e à ramasser la balle et à la placer dans l'embut adverse.

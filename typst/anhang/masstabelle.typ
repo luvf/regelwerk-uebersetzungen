@@ -3,9 +3,8 @@
 #let title = (
   de :[Übersicht: Feld- & Pompfenabmessungen],
   en:[Overview: Field & pompfens Dimensions],
-  fr:[Résumé : Dimensions du terrain et des pompfen],
-  )
-#let title = title.at(lang)
+  fr:[Résumé : dimensions du terrain et des pompfen],
+  ).at(lang)
 
 #let note=(
     de:[Freimaße werden in kursiv angegeben und leiten sich aus den übrigen Maßen ab.],

@@ -7,8 +7,7 @@
 
 #let title = title.at(lang)
 
-
-#let field_paragraph=(
+#(
 	de:[Die Form des Spielfeldes ist ein längliches Achteck.
 		Die Gesamtlänge beträgt #strong[40_m].
 		Die Gesamtbreite beträgt #strong[20_m].
