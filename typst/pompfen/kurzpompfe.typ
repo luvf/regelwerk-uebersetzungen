@@ -24,17 +24,17 @@
   ],
   en :[TODO], 
   fr :[
-  Le Pompfe court se compose d'une surface de frappe et d'une poignée.
-  La surface de frappe se situe à l'avant du Pompfe court.
+  Le pompfe court se compose d'une surface de frappe et d'une poignée.
+  La surface de frappe se situe à l'avant du pompfe court.
   La poignée se situe à l'arrière.
-  La longueur maximale du Pompfe court correspond à sa portée maximale et est de  #strong[85_cm].
+  La longueur maximale du pompfe court correspond à sa portée maximale et est de  #strong[85_cm].
   La longueur minimale de la surface de frappe, pointe comprise, est de #strong[60_cm].
-  Le Pompfe court s'utilise avec un bouclier ou un second Pompfe court.
+  Le pompfe court s'utilise avec un bouclier ou un second pompfe court.
 
-  Le Pompfe court n'est utilisé correctement que si la main du joueur·euse est en contact avec le manche.
-  Le Pompfe court peut être utilisé pour l'estoc.
+  Le pompfe court n'est utilisé correctement que si la main du joueur·euse est en contact avec le manche.
+  Le pompfe court peut être utilisé pour l'estoc.
 
-    En format réduit, la longueur maximale du Pompfe court est de #strong[64_cm].
+    En format réduit, la longueur maximale du pompfe court est de #strong[64_cm].
   La longueur minimale de la surface de frappe, pointe comprise, est alors de #strong[60_cm].],
 ).at(lang)
 

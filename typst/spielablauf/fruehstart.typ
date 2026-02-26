@@ -19,8 +19,7 @@
   fr :[
     Une équipe commet un faux départ si un joueur·euse se trouve déjà sur le terrain au moment du signal de départ, mais avant l'annonce de « Jugger ».
     Au premier faux départ, les arbitres doivent adresser un avertissement à l'équipe fautive.
-    Pour chaque faux départ suivant, l'équipe fautive est pénalisée : le Jugg est remis à l'équipe adverse.
-
+    Pour chaque faux départ suivant, l'équipe fautive est pénalisée : le jugg est remis à l'équipe adverse.
     Les arbitres peuvent, à leur discrétion, ne pas pénaliser l'équipe fautive si le faux départ n'est pas de son fait.
   ],
 ).at(lang)

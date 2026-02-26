@@ -15,7 +15,7 @@
     TODO
   ], 
   fr :[
-    Les pompfeur·euse·s actif·ve·s peuvent toucher les autres joueur·euse·s avec leur Pompfe ou leur chaîne.
+    Les pompfeur·euse·s actif·ve·s peuvent toucher les autres joueur·euse·s avec leur pompfe droit ou leur chaîne.
     Les enforceur·euse actif·ve·s peuvent épingler un·e joueur·euse inactif·ve.
   ],
 ).at(lang)

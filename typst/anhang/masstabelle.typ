@@ -3,7 +3,7 @@
 #let title = (
   de :[Übersicht: Feld- & Pompfenabmessungen],
   en:[Overview: Field & pompfens Dimensions],
-  fr:[Résumé : dimensions du terrain et des pompfen],
+  fr:[Résumé : Dimensions du terrain et des pompfen],
   ).at(lang)
 
 #let note=(
@@ -119,7 +119,7 @@
 
 #let short_pompf = (
   de :[Kurzpompfe],
-  en :[Short Pompfen],
+  en :[Short pompfen],
   fr :[Pompfe court],
 )
 === #short_pompf.at(lang)
@@ -136,7 +136,7 @@
 
 #let long_pompf = (
   de :[Langpompfe],
-  en :[Long Pompfen],
+  en :[Long pompfen],
   fr :[Pompfe long],
 )
 === #long_pompf.at(lang)

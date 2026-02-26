@@ -16,9 +16,9 @@
     TODO
   ], 
   fr :[
-    Les pompfeur·euse·s peuvent interagir avec le Jugg en le déplaçant ou en le touchant avec leur Pompfe.
-    Iels ne peuvent pas transporter le Jugg avec leur Pompfe.
-    Si un Pompfe endommagé est retiré du jeu et est remplacé par un nouveau, le·la pompfeur·euse concerné·e ne peut plus interagir avec le Jugg.
+    Les pompfeur·euse·s peuvent interagir avec le jugg en le déplaçant ou en le touchant avec leur pompfe.
+    Iels ne peuvent pas transporter le jugg avec leur pompfe.
+    Si un pompfe endommagé est retiré du jeu et est remplacé par un nouveau, le·la pompfeur·euse concerné·e ne peut plus interagir avec le jugg.
   ],
 ).at(lang)
 

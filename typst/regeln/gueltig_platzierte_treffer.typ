@@ -31,6 +31,7 @@
   ],
 ).at(lang)
 
+
 #let caption_text = (
   de: "Beispiel Unterscheidung zwischen gültig und ungültig platzierten Treffern an der Kopfzone\
     (links ungültig, rechts gültig)",

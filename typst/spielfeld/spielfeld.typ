@@ -31,7 +31,7 @@
 		Les lignes courtes et opposées, d'une longueur de #strong[10_m] chacune, sont les lignes de fond.
 		Toutes les autres lignes sont des lignes de côté.
 		La zone située en dehors du terrain de jeu est hors limites.
-		Le centre du terrain de jeu est marqué.
+		Le une marque est placé au centre du terrain de jeu.
 		La distance entre chaque ligne de fond et l'embut est de #strong[2_m].
 		Les embuts sont situés à mi-chemin entre les lignes de côté.
 

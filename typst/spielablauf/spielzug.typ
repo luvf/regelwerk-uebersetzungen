@@ -19,12 +19,12 @@
     TODO
   ], 
   fr :[
-    Chaque partie de Jugger se déroule en plusieurs points.
+    Chaque partie de jugger se déroule en plusieurs points.
     Un point commence par un signal de départ et se termine par la validation d'un point ou l'abandon du point.
     Chaque point est accompagné de coups de tambour, appelés "pierres".
     L'intervalle entre deux pierres consécutives est de 1,5 seconde.
 
-   Un match de Jugger peut se jouer en sets ou aux pierres (au temps).
+   Un match de jugger peut se jouer en sets ou aux pierres (au temps).
   ],
 ).at(lang)
 

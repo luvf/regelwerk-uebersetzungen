@@ -28,18 +28,18 @@
     TODO
   ], 
   fr :[
-    Lors d'un combat de coureur·euse·s, la totalité du haut du corps (bras compris), de la taille à la base du cou, constitue une zone cible autorisée en position debout.
-    Si un·e coureur·euse touche le sol avec plus que ses pieds, la totalité de son corps, de la base du cou jusqu'aux pieds, constitue une zone cible autorisée.
-    Les coureur·euse·s peuvent entrer en contact physique et pousser, saisir, retenir, soulever, tirer ou projeter leur adversaire au sol à l'intérieur de la zone cible autorisée.
+    Lors d'un combat de coureur·euse·s, la totalité du haut du corps (bras compris), de la taille à la base du cou, constitue une zone de contact en position debout.
+    Si un·e coureur·euse touche le sol avec plus que ses pieds, la totalité de son corps, de la base du cou jusqu'aux pieds, constitue une zone de contact.
+    Les coureur·euse·s peuvent entrer en contact physique et pousser, saisir, retenir, soulever, tirer ou projeter leur adversaire au sol dans la zone de contact.
     Iels doivent relâcher leur prise dès que celle-ci dépasse ou descend en dessous de cette zone.
     Lors d'un combat de coureur·euse·s, il est interdit aux coureur·euse·s :
     - de prendre l'avantage en infligeant des blessures ;
-    - de frapper leur adversaire avec des coups de poing ou de pied, ou de l'attaquer en dehors de la zone cible autorisée ;
+    - de frapper leur adversaire avec des coups de poing ou de pied, ou de l'attaquer en dehors de la zone de contact autorisée ;
     - de projeter la·le coureur·euse·s adverse de manière à ce que ses deux pieds quittent le sol ou qu'iel atterrisse la tête ou le torse en premier ;
     - d'utiliser un effet de levier en déplaçant ses membres au-delà du point d’arrêt de leurs articulations ;
     - de tirer brusquement sur les membres (par exemple, en arrêtant un adversaire en course par l'avant-bras) ;
     - de pousser un adversaire en courant ;
-    - de foncez sur un adversaire en courant ou en lui sautant dessus ;
+    - de foncer sur un adversaire en courant ou en lui sautant dessus ;
     - de tirer un adversaire par ses vêtements.
     Si les deux équipes sont d'accord avant le début de la partie, des règles alternatives de combat en course peuvent être établies.
     Les arbitres du match peuvent refuser ces accords.

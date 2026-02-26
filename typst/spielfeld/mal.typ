@@ -17,8 +17,8 @@
 		Wird mit reduzierten Maßen gespielt, bleiben die Maße für die Male unverändert.],
 	en:[],
 	fr:[
-		L'embut est le but du Jugger.
-		Il a la forme d'un cône tronqué avec une ouverture dans laquelle on place le Jugg.
+		L'embut est le but du jugger.
+		Il a la forme d'un cône tronqué avec une ouverture dans laquelle on place le jugg.
 		Le diamètre de la base du cône est d'au moins #strong[30_cm].
 		Le diamètre de l'ouverture est d'environ #strong[12_cm] et sa profondeur d'environ #strong[20_cm].
 		L'embut est entièrement rembourré et ne présente aucune arête rigide.

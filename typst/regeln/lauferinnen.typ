@@ -21,12 +21,12 @@
     TODO
   ], 
   fr :[
-    Les coureur·euse·s peuvent interagir avec le Jugg en le touchant, le déplaçant, le plaçant ou en le lançant.
+    Les coureur·euse·s peuvent interagir avec le jugg en le touchant, le déplaçant, le plaçant ou en le lançant.
     Lorsqu'un·e coureur·euse touche le jugg avec sa main, celui-ci fait partie de sa zone de touche.
-    Il est interdit aux coureur·euse·s de frapper les autres joueur·euse·s avec le Jugg.
+    Il est interdit aux coureur·euse·s de frapper les autres joueur·euse·s avec le jugg.
 
-    Si le Jugg a été déplacé hors des limites du terrain et n'a pas encore été replacé au bord du terrain par les arbitres, les coureur·euse·s peuvent quitter l'aire de jeu pour le remettre en jeu.
+    Si le jugg a été déplacé hors des limites du terrain et n'a pas encore été replacé au bord du terrain par les arbitres, les coureur·euse·s peuvent quitter l'aire de jeu pour le remettre en jeu.
     Ceci ne constitue pas une violation de la règle de sortie.
-    Iels doivent emprunter le chemin le plus court depuis la ligne de touche jusqu'au Jugg et réintégrer l'aire de jeu le plus rapidement possible à l'endroit où iels l'ont quittée.
+    Iels doivent emprunter le chemin le plus court depuis la ligne de touche jusqu'au jugg et réintégrer l'aire de jeu le plus rapidement possible à l'endroit où iels l'ont quittée.
   ],
 ).at(lang)

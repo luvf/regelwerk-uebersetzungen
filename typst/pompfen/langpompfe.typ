@@ -23,15 +23,15 @@
   ],
   en :[TODO], 
   fr :[
-Le Pompfe long se compose d'une surface de frappe et d'une poignée.
-La surface de frappe se situe à l'avant du Pompfe long.
+Le pompfe long se compose d'une surface de frappe et d'une poignée.
+La surface de frappe se situe à l'avant du pompfe long.
 La poignée se situe à l'arrière.
-La longueur maximale du Pompfe long correspond à sa portée maximale et est de #strong[140_cm].
+La longueur maximale du pompfe long correspond à sa portée maximale et est de #strong[140_cm].
 La longueur minimale de la surface de frappe, pointe comprise, est de  #strong[100_cm].
-Le Pompfe long n'est utilisé correctement que si les deux mains du pompfeur·euse sont en contact avec la poignée.
-Le Pompfe long peut être utilisé pour l'estoc.
+Le pompfe long n'est utilisé correctement que si les deux mains du pompfeur·euse sont en contact avec la poignée.
+Le pompfe long peut être utilisé pour l'estoc.
 
-En format réduit, la longueur maximale du Pompfen long est de  #strong[105_cm].
+En format réduit, la longueur maximale du pompfe long est de  #strong[105_cm].
 La longueur minimale de la surface de frappe, pointe comprise, est alors de #strong[75_cm].],
 ).at(lang)
 

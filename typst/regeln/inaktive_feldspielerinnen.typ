@@ -24,10 +24,10 @@
   ], 
   fr :[
     Les joueur·euse·s sont considéré·e·s comme inactif·ve·s lorsqu'iels sont touchés légalement ou lorsqu'iels sortent des limites du terrain.
-    Lorsqu'iels sont inactifs, les joueur·euse·s ne peuvent ni être touché·e·s légalement, ni toucher ou immobiliser légalement un adversaire.
+    Lorsqu'iels sont inactifs, les joueur·euse·s ne peuvent ni être touché·e·s légalement, ni toucher ou épingler légalement un adversaire.
     Les joueur·euse·s inactif·ve·s doivent s'agenouiller dès que possible pour que leur pénalité soit comptabilisée ; si nécessaire, iels doivent retourner sur le terrain pour ce faire.
 
-    Si leur corps est enchaîné, iels doivent aider à défaire la chaîne.
+    Si une chaine est enroulée autour de leur corps, iels doivent aider à défaire la chaîne.
     Iels peuvent communiquer avec les autres joueur·euse·s s'iels le souhaitent.
     Les joueur·euse·s inactif·ve·s n'ont pas le droit de participer au jeu.
 

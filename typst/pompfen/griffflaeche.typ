@@ -15,8 +15,8 @@
 ],
   en :[TODO], 
   fr :[
-    La poignée est la partie du Pompfe qui permet de le tenir correctement.
-    Sur les Pompfen courts, les Pompfen longs et les bâtons, l'extrémité de la poignée, appelée le pommeau, doit être rembourrée.
+    La poignée est la partie du pompfe qui permet de le tenir correctement.
+    Sur les pompfen courts, les pompfen longs et les bâtons, l'extrémité de la poignée, appelée le pommeau, doit être rembourrée.
     En exerçant une pression modérée avec le pouce, à la fois à l'extrémité et sur les côtés du pommeau, aucune arête rigide ne doit être ressentie.
     Le pommeau doit être solidement fixé au reste de la poignée.
 

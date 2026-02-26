@@ -24,7 +24,7 @@
     - d'une blessure ;
     - d'un comportement antisportif ;
     - d'un nombre excessif de joueur·euse·s, de personnes non autorisées, d'animaux ou d'objets dangereux sans rapport avec le jeu sur le terrain.
-Le jeu peut également être interrompu si un Pompfe est endommagé.
+Le jeu peut également être interrompu si un pompfe est endommagé.
 Lors d'un match disputé en sets, le jeu peut également être interrompu en cas de situation bloquée (pat).
 La décision d'interrompre le jeu est généralement prise par l'arbitre principal.
   ],

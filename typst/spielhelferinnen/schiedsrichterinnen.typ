@@ -25,16 +25,16 @@
     TODO
   ], 
   fr :[
-    Chaque match officiel de Jugger est arbitré par au moins quatre arbitres :
+    Chaque match officiel de jugger est arbitré par au moins quatre arbitres :
     un·e arbitre principal·e, un·e arbitre secondaire et deux arbitres d'embut.
     Tous les arbitres sont responsables de l’application des règles du jeu et de la sécurité de tou·te·s les joueur·euse·s.
     Iels arrêtent ou relancent le jeu selon les besoins.
     Iels vérifient les pénalités de temps des joueur·euse·s inactif·ve·s et prennent des décisions en cas de doute.
-    Iels reçoivent les rapports des joueur·euse·s concernant les blessures et les brutalités excessives, signalent les comportements antisportifs répétés et infligent des pénalités si nécessaire.
-    Iels assurent la continué du jeu si le Jugg est placé illégalement.
+    Iels reçoivent les rapports des joueur·euse·s concernant les blessures et les brutalités excessives, signalent les comportements antisportifs répétés et infligent des pierres de pénalités si nécessaire.
+    Iels assurent la continuité du jeu si le jugg est placé illégalement.
     Tous les arbitres peuvent pénétrer sur le terrain pour exercer leurs fonctions, mais ne doivent pas gêner les déplacements des joueur·euse·s.
     En complément de ces règles, un guide à l'intention des arbitres est disponible à l'adresse suivante : #weblink(url: "https://www.jugger.org/files/public/public/leitfaden-fuer-schiedsrichter.pdf", display: "jugger.org (en allemand)" ). Ce guide aborde plus en détail les différentes situations de jeu et les actions possibles.
-    Il est recommandé de se familiariser avec ce guide, même s'il ne fait pas partie du règlement officel.
+    Il est recommandé de se familiariser avec ce guide, même s'il ne fait pas partie du règlement officiel.
   ],
 ).at(lang)
 

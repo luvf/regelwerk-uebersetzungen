@@ -31,8 +31,8 @@
     Après chaque point, le comptage est arrêté et reprend au début du point suivant.
     Lorsque toutes les pierres d'une mi-temps sont épuisées, le point se termine.
     L'équipe qui a le plus de points à la fin du temps imparti remporte la partie.
-    Si les deux équipes ont le même nombre de points à la fin du temps imparti, la règle du Jugg d'or s'applique. 
-    Lors d'un Jugg d'or, un nouveau point commence.
+    Si les deux équipes ont le même nombre de points à la fin du temps imparti, la règle du jugg d'or s'applique. 
+    Lors d'un jugg d'or, un nouveau point commence.
     L'équipe qui marque le point lors de ce point remporte la partie.
   ],
 ).at(lang)

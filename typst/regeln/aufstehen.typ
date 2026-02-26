@@ -22,11 +22,11 @@
   ], 
   fr :[
     Se relever réactive les joueur·euse·s inactif·ve·s.
-    Tous les joueur·euse·s se relèvent en retirant leur main de leur dos ou en levant le genou du sol.
+    Tou·te·s les joueur·euse·s se relèvent en retirant leur main de leur dos ou en levant le genou du sol.
     Les pompfeur·euse·s inactif·ve·s se relèvent également lorsqu'iels déplacent le jugg.
     Les coureur·euse·s inactif·ve·s se relèvent également lorsqu'iels déplacent le jugg ou le touchent de la main.
     Les joueur·euse·s peuvent se relever une fois leur temps de pénalité écoulé.
-    Si un·e joueur·euse se relève après avoir purgé sa pénalité, alors qu'iel est épinglé, iel écope d'une pénalité de 5 pierres.
+    Si un·e joueur·euse se relève après avoir purgé sa pénalité, alors qu'iel est épinglé·e, iel écope d'une pénalité de 5 pierres.
     Une fois l'épinglage retiré, iel peut se relever normalement sans pénalité.
     Les joueur·euse·s inactif·ve·s peuvent rester à genoux au-delà de leur temps de pénalité et demeurent ainsi inactif·ve·s.
   ],

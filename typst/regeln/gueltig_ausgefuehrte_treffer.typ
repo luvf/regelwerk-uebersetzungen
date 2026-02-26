@@ -32,18 +32,18 @@
   ], 
   fr :[
     Un coup est valide si aucune des conditions suivantes n'est remplie :
-      - La·le Pompfeur·euse·s est inactif·ve.
-      - Le pompfe n'est pas utilisé correctement.
-      - Le pompfe est enroulé autour d'une chaine et touche un·e autre joueur·euse que cellui qui tient la chaîne.
-      - La·le joueur·euse qui tient la chaine lance la boule de la chaine ou la traine au sol derrière lui.
-      - Un pompfe est enroulé autour de la chaine qui touche.
-      - Le coup est porté par un mouvement d'estoc avec le bâton.
+      - la·le pompfeur·euse·s est inactif·ve ;
+      - le pompfe n'est pas utilisé correctement ;
+      - le pompfe est enroulé autour d'une chaine et touche un·e autre joueur·euse que cellui qui tient la chaîne ;
+      - la·le joueur·euse qui tient la chaine lance la boule de la chaine ou la traine au sol derrière ellui ;
+      - un pompfe est enroulé autour de la chaine qui touche ;
+      - le coup est porté par un mouvement d'estoc avec le bâton ;
 
     Pour une utilisation correcte :
-      - Pour un pompfe court, une main doit toucher le manche.
-      - Pour les pompfen longs et les cotons-tiges, les deux mains doivent toucher le manche.
-      - Pour un bâton, une main doit toucher la poignée avant et l'autre la poignée arrière.
-      - Pour une chaîne, la bouche doit toucher une main ou un bras du·de la joueur·euse qui tient la chaine. La chaine doit être en rotation. 
+      - pour un pompfe court, une main doit toucher le manche ;
+      - pour les pompfen longs et les cotons-tiges, les deux mains doivent toucher le manche ;
+      - pour un bâton, une main doit toucher la poignée avant et l'autre la poignée arrière ;
+      - pour une chaîne, la bouche doit toucher une main ou un bras du·de la joueur·euse qui tient la chaine. La chaine doit être en rotation ;
 
       Pour toucher une partie d'un pompfe, il suffit de la toucher avec n'importe quelle partie du corps correspondante (main ou bras pour la chaine).
   ],

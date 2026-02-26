@@ -11,9 +11,9 @@
     TODO
   ], 
   fr :[
-    Pour garantir le bon déroulement du jeu, chaque partie de Jugger est supervisée par au moins un assistant de jeu.
-    Les assistants font office d'arbitres, de gardien·ne du temps et de compteur·se de points.
-    Si le Jugg sort des limites du terrain, les assistants de jeu le replacent à l'endroit où il a quitté l'aire de jeu, sauf si un·e coureur·euse l'atteint avant lui/elle.
+    Pour garantir le bon déroulement du jeu, chaque partie de jugger est supervisée par au moins un aides de jeu.
+    Les aides de jeu font office d'arbitres, de gardien·ne du temps et de compteur·se de points.
+    Si le jugg sort des limites du terrain, les aides de jeu le replacent à l'endroit où il a quitté l'aire de jeu, sauf si un·e coureur·euse l'atteint avant lui/elle.
   ],
 ).at(lang)
 

@@ -235,7 +235,7 @@
 ).at(lang)
 
 #let end_round = (
-  de :[Beenden eines Spielzugs], en :[Ending a Point], fr :[Arrêter un Point],
+  de :[Beenden eines Spielzugs], en :[Ending a Point], fr :[Arrêter un point],
 ).at(lang)
 
 #let game_rules = (
@@ -244,7 +244,7 @@
 
 
 #let game_staff = (
-  de :[Spielhelfer\*innen], en :[Gamin staff], fr :[Personel de jeu],
+  de :[Spielhelfer\*innen], en :[Gamin staff], fr :[Aides de jeu],
 ).at(lang)
 
 

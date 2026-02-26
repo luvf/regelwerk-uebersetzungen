@@ -3,7 +3,7 @@
 #let title = (
   de :[Übersicht: Schlüsselbegriffe],
   en :[Overview: Key terms],
-  fr :[Vue d'ensemble: Termes clés],
+  fr :[Vue d'ensemble : Termes clés],
 ).at(lang)
 
 #show table.cell.where(y: 0): strong
@@ -38,12 +38,12 @@
     function:(
       de :[Die Handlung ist explizit erlaubt. Es stellt keinen Regelbruch dar, sie zu unterlassen. (Erlaubnis)],
       en :[The action is explicitly permitted. Failure to perform it does not constitute a rule violation. (Permission)],
-      fr :[Cette action est explicitement autorisée. Ne pas l'effectuer ne constitue pas une infraction au règlement. (Autorisation)],
+      fr :[Cette action est explicitement autorisée. Ne pas l'effectuer ne constitue pas une infraction au règlement (Autorisation).],
     ),
     example:(
       de :[Wurde der Jugg ins Aus befördert, darf der*die Läufer*in das Spielfeld verlassen, um den Jugg zu holen.],
       en :[If the jugg has been send out of bounds, the runner #strong[can] leave the playing field to retrieve it],
-      fr :[Si le Jugg est sorti des limites du terrain, la·le coureur·euse #strong[peut] quitter le terrain pour le récupérer],
+      fr :[Si le jugg est sorti des limites du terrain, la·le coureur·euse #strong[peut] quitter le terrain pour le récupérer],
     ),
   ),
   should:(
@@ -55,12 +55,12 @@
     function:(
       de :[Die Handlung ist durchzuführen, es sei denn es gibt eine berechtigte Ausnahme. Es kann einen Regelbruch darstellen, sie zu unterlassen (Richtline)],
       en :[The action must be carried out unless there is a justified exception. Failure to do so may constitute a breach of the rules (guideline).],
-      fr :[Cette action doit être réalisée, sauf exception justifiée. Le non-respect de cette obligation peut constituer une infraction aux règles (directives).],
+      fr :[Cette action doit être réalisée, sauf exception justifiée. Le non-respect de cette obligation peut constituer une infraction aux règles (Directives).],
     ),
     example:(
       de :[Inaktive Pompfer*innen sollten ihre Pompfen flach auf den Boden legen.],
       en :[Inactive pompfens users #strong[should] lay their pompfens flat on the ground.],
-      fr :[Les utilisateur·rice·s de pompfens inactifs #strong[doivent] poser leurs pomfen à plat sur le sol.],
+      fr :[Les pompfeur·se·s inactif·ve·s #strong[doivent] poser leurs pompfe à plat sur le sol.],
     ),
   ),
   must:(
@@ -72,7 +72,7 @@
     function:(
       de :[Die Handlung ist durchzuführen. Es ist ein Regelbruch, sie zu unterlassen. (Gebot)],
       en :[The action must be carried out. Failure to do so is a breach of the rules. (Commandment)],
-      fr :[L'action doit être menée à bien. Le non-respect de cette consigne constitue une infraction au règlement. (Ordre)],
+      fr :[L'action doit être menée à bien. Le non-respect de cette consigne constitue une infraction au règlement (Ordre).],
     ),
     example:(
       de :[Wird eine Pompfe während des Spiels unsicher oder nicht regelkonform, muss sie sofort aus dem Spiel entfernt werden],
@@ -111,7 +111,7 @@
     function:(
       de :[Das Unterlassen der Handlung ist explizit erlaubt. Es stellt keinen Regelbruch dar, sie auszuführen. (Erlaubnis)],
       en :[Refraining from the action is explicitly permitted. Performing it does not constitute a breach of the rules. (Permission)],
-      fr :[L'absence d'exécution de cette action est expressément autorisée. Son exécution ne constitue pas une infraction aux règles. (Autorisation)],
+      fr :[L'absence d'exécution de cette action est expressément autorisée. Son exécution ne constitue pas une infraction aux règles (Autorisation),],
     ),
     example:(
       de :[Wird aktuell nicht verwendet.],
@@ -128,7 +128,7 @@
     function:(
       de :[Die Handlung ist zu unterlassen, es sei denn es gibt eine berechtigte Ausnahme. Es kann einen Regelbruch darstellen, sie auszuführen (Richtlinie)],
       en :[The action must be avoided unless there is a justified exception. Carrying it out may constitute a breach of the rules (guideline).],
-      fr :[Cette action doit être évitée sauf exception justifiée. Sa mise en œuvre peut constituer une infraction aux règles (directives).],
+      fr :[Cette action doit être évitée sauf exception justifiée. Sa mise en œuvre peut constituer une infraction aux règles (Directives).],
     ),
     example:(
       de :[Wird aktuell nicht verwendet.],
@@ -145,13 +145,12 @@
     function:(
       de :[Die Handlung ist zu unterlassen. Es ist ein Regelbruch, sie auszuführen. (Gebot / Verbot)],
       en :[The action must be avoided. Performing it is a breach of the rules. (Commandment/Prohibition)],
-      fr :[Cet acte est à proscrire. Le commettre constitue une infraction aux règles. (Ordre/Interdiction)
-],
+      fr :[Cet acte est à proscrire. Le commettre constitue une infraction aux règles (Ordre/Interdiction).],
     ),
     example:(
       de :[Gepinnte Feldspieler*innen dürfen nicht aufstehen. Pompfer*innen ist es verboten, ihre*eigene Pompfe zu werfen.],
       en :[Pinned field players #strong[can not] stand up. Players using a padded weapon are #strong[forbidden] from throwing their own padded weapon.],
-      fr :[Les joueur·euse·s épinglés sur le terrain #strong[ne peuvent pas] se relever. Les joueur·euse·s utilisant un pompfe ont #strong[interdiction] de lancer leur pompfe rembourrée.],
+      fr :[Les joueur·euse·s épinglé·e·s. sur le terrain #strong[ne peuvent pas] se relever. Les joueur·euse·s utilisant un pompfe ont #strong[interdiction] de lancer leur pompfe rembourrée.],
     ),  
   ),
 )
@@ -186,12 +185,12 @@
     function:(
       de :[Die Handlung ist gemäß den Definitionen des Regelwerks möglich. (Befähigung)],
       en :[The action is possible according to the definitions in the rulebook. (Empowerment)],
-      fr :[Cette action est possible conformément aux définitions du règlement. (Autonomisation)],
+      fr :[Cette action est possible conformément aux définitions du règlement (Autonomisation).],
     ),
     example:(
       de :[Aktive Nahpompfer*innen können inaktive, regelkonform abkniende Feldspieler*innen pinnen[...]],
       en :[Active Pompfers #strong[can] pin inactive, legally kneeling field players[...]],
-      fr :[Les enforceur·euse #strong[peuvent] immobiliser les joueur·euse·s inactif·ve·s, légalement agenouillé·e·s [...]],
+      fr :[Les enforceur·euse·s #strong[peuvent] épingler les joueur·euse·s inactif·ve·s, légalement agenouillé·e·s [...]],
     ),
   ),
   should_not:(
@@ -203,12 +202,12 @@
     function:(
       de :[Die Handlung ist gemäß den Definitionen des Regelwerks, nur unter der genannte Bedingung möglich. (Notwendige Bedingung)],
       en :[According to the rules, this action is only possible under the stated condition. (Necessary condition)],
-      fr :[Conformément aux règles, cette action n'est possible que sous la condition énoncée. (Condition nécessaire)],
+      fr :[Conformément aux règles, cette action n'est possible que sous la condition énoncée (Condition nécessaire).],
     ),
     example:(
       de :[Eine Kette kann nur regelgerecht geführt werden, wenn die Handschlaufe die Hand oder den Arm des*der Kettenspieler*in berührt.],
       en :[A chain #strong[can not] be led correctly if the hand loop touches the hand or arm of the chain player.],
-      fr :[Une chaîne #strong[ne peut être] utilisée correctement que si la boucle de la main touche la main ou le bras du joueur·euse qui la suit.],
+      fr :[Une chaîne #strong[ne peut être] utilisée correctement que si la boucle de la main touche la main ou le bras du·de la joueur·euse qui la suit.],
     ),
   ),
 )
@@ -241,7 +240,7 @@
     example:(
       de :[Der Jugg ist der Spielball im Jugger.],
       en :[The Jugg is the ball used in Jugger.],
-      fr :[Le jugg est la balle utilisée dans Jugger.],
+      fr :[Le jugg #strong[est] la balle utilisée au jugger.],
     ),
   ),
   measure:(
@@ -275,7 +274,7 @@
     example:(
       de :[Die Male befinden sich mittig zwischen den Seitenlinien.],
       en :[The marks are located midway between the side lines.],
-      fr :[Les embuts sont situées à mi-chemin entre les lignes latérales.],
+      fr :[Les embuts sont #strong[situés] à mi-chemin entre les lignes latérales.],
     ),
   ),
   consist :(
@@ -292,7 +291,7 @@
     example:(
       de :[Nahpompfen bestehen aus einem Kernstab und angemessenen Polsterungen.],
       en :[Close-up Pompfens consist of a core rod and appropriate padding.],
-      fr :[Les pompfens droits sont composés d'une tige centrale et d'un rembourrage approprié.],
+      fr :[Les pompfen droits sont #strong[composés] d'une tige centrale et d'un rembourrage approprié.],
     ),
   ),
   composed :(
@@ -316,7 +315,7 @@
     keyword :(
       de :[Unterteilen],
       en :[Divide],
-      fr :[Composé],
+      fr :[divisé],
     ),
     function:(
       de :[Wird verwendet, um definierte Gruppen aufzuteilen.],
@@ -326,7 +325,7 @@
     example:(
       de :[Die Feldspieler*innen eines Teams unterteilen sich in Läufer*innen (Qwiks) und Pompfer*innen.],
       en :[The field players of a team are divided into runners (Qwiks) and pummelers.],
-      fr :[Les joueur·euse·s d'une équipe sont divisés en coureur·euse·s (Qwiks) et en enforcer.],
+      fr :[Les joueur·euse·s d'une équipe sont #strong[divisés] en coureur·euse·s (Qwiks) et en pompfeur·euse·s.],
     ),
   ),
 )

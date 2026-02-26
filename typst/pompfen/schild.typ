@@ -28,10 +28,10 @@
     Le bouclier est rond et son diamètre maximal est de #strong[60_cm].
     La face avant et le bord du bouclier doivent être rembourrés.
     La poignée se trouve à l'arrière du bouclier.
-    Le bouclier s'utilise avec un Pompfen court.
+    Le bouclier s'utilise avec un pompfe court.
     Le bouclier ne peut servir ni à frapper ni à épingler.
 
-      En format réduit, le diamètre maximal du bouclier est de #strong[45_cm].
+    En format réduit, le diamètre maximal du bouclier est de #strong[45_cm].
   ],
 ).at(lang)
 

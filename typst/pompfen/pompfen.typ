@@ -21,16 +21,16 @@
 	],
 	en:[TODO],
 	fr:[
-		Les Pompfen sont l'équipement utilisé au Jugger.
-		Ils se divisent en boucliers, chaînes et quatre types de Pompfen droits : le Pompfe court, le Pompfe long, le coton-tige et le bâton.
-		Les chaînes et les Pompfen à courte portée permettent aux joueur·euse·s de toucher les autres joueur·euse·s.
-		Les Pompfen droits peuvent également servir à épingler les autres joueur·euse·s.
-		Le Jugg peut être touché et déplacé avec tous les Pompfen.
-		Les Pompfens ne doivent pas avoir d'arêtes rigides.
+		Les pompfen sont l'équipement utilisé au jugger.
+		Ils se divisent en boucliers, chaînes et quatre types de pompfen droits : le pompfe court, le pompfe long, le coton-tige et le bâton.
+		Les chaînes et les pompfen à courte portée permettent aux joueur·euse·s de toucher les autres joueur·euse·s.
+		Les pompfen droits peuvent également servir à épingler les autres joueur·euse·s.
+		Le jugg peut être touché et déplacé avec tous les pompfen.
+		Les pompfens ne doivent pas avoir d'arêtes rigides.
 
-		Seuls des Pompfen conformes aux règles peuvent être utilisés.
-		Tous les Pompfen doivent être vérifiés avant chaque match afin de s'assurer de leur conformité aux règles en vigueur.
-		Si un Pompfen devient dangereux ou non conforme pendant un match, il doit être immédiatement retiré du jeu.
+		Seuls des pompfen conformes aux règles peuvent être utilisés.
+		Tous les pompfen doivent être vérifiés avant chaque match afin de s'assurer de leur conformité aux règles en vigueur.
+		Si un pompfen devient dangereux ou non conforme pendant un match, il doit être immédiatement retiré du jeu.
 	],
 ).at(lang)
 

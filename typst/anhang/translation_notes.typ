@@ -45,7 +45,7 @@
     notes:(
       de:"",
       en:"",
-      fr:"L'usage au singulier est Pompfe, au pluriel Pompfen, ",
+      fr:"L'usage au singulier est pompfe, au pluriel pompfen, ",
     )
   ),
   nahpompfe:(
@@ -58,7 +58,7 @@
     notes:(
       de:"",
       en:"",
-      fr:"Sauf chaîne et bouclier. lit: Pompfe de corps-à-corps",
+      fr:"Sauf chaîne et bouclier. litt : pompfe de corps-à-corps, directement importé de l'allemand",
     )
   ),
   feldspieler:(
@@ -66,12 +66,12 @@
     translation:(
       de:"",
       en:"",
-      fr:"joueur·euse",
+      fr:"Joueur·euse",
     ),
     notes:(
       de:"",
       en:"",
-      fr:"Le terme décrit littéralement un joueur·euse de champ, nous préférerons donner le qualificatif de joueur·euse remplaçant·e pour les autres joueur·euse·s",
+      fr:"Litt : joueur·euse de champ, nous préférons donner le qualificatif de joueur·euse remplaçant·e pour les autres joueur·euse·s",
     )
   ),
   pompfer:(
@@ -84,7 +84,7 @@
     notes:(
       de:"",
       en:"",
-      fr:"Décrit tout joueur·euse avec un Pompfe, droit ou chaîne.",
+      fr:"Décrit tout·e joueur·euse avec un pompfe, droit ou chaîne.",
     )
   ),
   enforcer:(
@@ -97,7 +97,7 @@
     notes:(
       de:"",
       en:"",
-      fr:"Décrit tout joueur·euse avec un Pompfe droit, le terme est trop long pour être utilisé tel quel.",
+      fr:"Décrit tout·e joueur·euse avec un pompfe droit, le terme est trop long pour être utilisé tel quel.",
     )
   ),
   hit_area:(
@@ -110,7 +110,7 @@
     notes:(
       de:"",
       en:"",
-      fr:"La zone sur le joueur·euse qui peut être touchée.",
+      fr:"La zone sur le·la joueur·euse qui peut être touchée.",
     )
   ),
 
@@ -124,7 +124,7 @@
     notes:(
       de:"",
       en:"",
-      fr:"La surface avec laquelle une arme peut toucher. On aurait pu utiliser surface de touche mais l'utilisation du terme frappe lève toute ambiguïté avec la zone de touche.",
+      fr:[La surface avec laquelle une arme peut toucher. On aurait pu utiliser "surface de touche" mais l'utilisation du terme frappe lève toute ambiguïté avec la zone de touche.],
     )
   ),
 

@@ -32,10 +32,10 @@
 		Il est interdit aux joueur·euse·s :
 			- d'utiliser une force excessive ;
 			- de courir ou de sauter sur d'autres joueur·euse·s sans ralentir. Autrement dit, iels doivent s'arrêter avant toute collision potentielle ;
-			- de tirer brusquement sur une chaîne tendue enroulée autour d'un Pompfe ou d'une partie du corps ;
-			- de déplacer le Jugg hors des limites du terrain afin qu'il soit inaccessible aux autres joueur·euse·s ;
-			- de déplacer le Jugg avec leurs pieds ;
+			- de tirer brusquement sur une chaîne tendue enroulée autour d'un pompfe ou d'une partie du corps ;
+			- de déplacer le jugg hors des limites du terrain afin qu'il soit inaccessible aux autres joueur·euse·s ;
+			- de déplacer le jugg avec leurs pieds ;
 			- de déplacer l'embut de son emplacement désigné ;
-			- de bloquer l'ouverture de l'embut, que ce soit avec leur corps ou avec un Pompfe.
+			- de bloquer l'ouverture de l'embut, que ce soit avec leur corps ou avec un pompfe.
   ],
 ).at(lang)
