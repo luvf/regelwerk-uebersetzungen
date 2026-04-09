@@ -2,7 +2,7 @@
 
 #import "/typst/utils.typ": weblink
 
-CC 2025 Deutscher Jugger Sportverband \
+CC 2026 Deutscher Jugger Sportverband \
 #weblink(url: "mailto:regelwerk@djsv.de", display: "regelwerk@djsv.de")
 
 #let authors=(

@@ -64,7 +64,7 @@
     Le jugger valorise le fair-play de ses joueur·euse·s.
     Généralement, les joueur·euse·s des équipes adverses règlent les litiges ensemble et individuellement.
     En cas d'action non réglementaire, iels ont le droit de prendre une décision préliminaire ensemble et de déterminer comment la situation sera gérée pour la suite de la partie.
-    En cas de désaccord, les arbitres tranchent afin d'assurer le bon déroulement du jeu. Après la partie, l'organisateur·rice de l'événement doit établir une règle concernant le litige pour toute la durée de l'événement.
+    En cas de désaccord, les arbitres tranchent afin d'assurer le bon déroulement du jeu. Après la partie, l'organisateur·rice de l'événement ou du tournoi doit établir une règle concernant le litige pour toute la durée de l'événement.
   ],
 ).at(lang)
 

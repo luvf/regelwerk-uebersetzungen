@@ -16,7 +16,7 @@
   ], 
   fr :[
     Si le jugg est correctement placé dans un embut, le point est attribué à l'équipe qui doit marquer dans cet embut et le point se termine.
-    Si le jugg est mal placé par des coureur·euse·s inactif·ve·s, le point continue et le jugg doit être retiré de la zone d'objectif et placé à côté par les assistants ou les joueur·euse·s.
+    Lorsque le jugg est placé par un·e coureur·euse·s inactif·ve·s ou qu'il est mal placé, le point continue et le jugg doit être retiré de la zone d'objectif et placé à côté par les assistants ou les joueur·euse·s.
   ],
 ).at(lang)
 

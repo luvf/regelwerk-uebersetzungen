@@ -35,8 +35,8 @@
       - la·le pompfeur·euse·s est inactif·ve ;
       - le pompfe n'est pas utilisé correctement ;
       - le pompfe est enroulé autour d'une chaine et touche un·e autre joueur·euse que cellui qui tient la chaîne ;
-      - la·le joueur·euse qui tient la chaine lance la boule de la chaine ou la traine au sol derrière ellui ;
-      - un pompfe est enroulé autour de la chaine qui touche ;
+      - la·le joueur·euse qui tient la chaine lance la boule de la chaine ou la chaine traine au sol derrière ellui ;
+      - la chaine qui touche est enroulé autour d'un pompfe ; 
       - le coup est porté par un mouvement d'estoc avec le bâton ;
 
     Pour une utilisation correcte :
@@ -45,7 +45,7 @@
       - pour un bâton, une main doit toucher la poignée avant et l'autre la poignée arrière ;
       - pour une chaîne, la bouche doit toucher une main ou un bras du·de la joueur·euse qui tient la chaine. La chaine doit être en rotation ;
 
-      Pour toucher une partie d'un pompfe, il suffit de la toucher avec n'importe quelle partie du corps correspondante (main ou bras pour la chaine).
+      Pour toucher une poignée d'un pompfe, il suffit de la toucher avec n'importe quelle partie du corps correspondante (main ou bras pour la chaine).
   ],
 ).at(lang)
 

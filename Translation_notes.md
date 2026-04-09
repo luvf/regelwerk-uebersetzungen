@@ -19,13 +19,18 @@ Der Stab kann nur regelgerecht geführt werden, wenn beide Hände des*der Pompfe
 I have "If a jug is invalidly placed by an inactive runner." (imply 2 conditions, inactive runner and invalidly, what happend in each ones of the )
 
 
+# Frühstart 
+where is it said we have to replay a with a frueshart,
+wiederholung is only defined in the section 6
+
+
 why using :
 Spielleitung (game officials, an not direcly referees )
 
 fruhstart and Fehlstart are not the same, I can do as many Fehlstart as i want ?
 
-# if you are down from the out rule, you can kneel anywere
-
+# Trefferzone 
+so hand is not valid if it contacting your pompfe at any place.
 
 # Gültig ausgeführte Treffer
  pompfe wrapped touch a non-Chain and the chain=>not a valid hit
@@ -47,14 +52,8 @@ Gürtellinie ? waist or hips?
     - sich einen Vorteil durch Billigung von Verletzungen zu erkaufen.
 is it ok to injury someone if you dont gain advantage?
 
-# 5.1.1
-    Nahpompfer*innen ist es verboten, mit ihrer Pompfe aus vollem Lauf oder Vorwärtssprung zu stechen.\
-so chain can charge into someone?
 
 
-# Frühstart 
-where is it said we have to replay a with a frueshart,
-wiederholung is only defined in the section 6
 
 # A.2 
  - durfen =>can (may ?)

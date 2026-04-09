@@ -33,12 +33,12 @@
     Les coureur·euse·s peuvent entrer en contact physique et pousser, saisir, retenir, soulever, tirer ou projeter leur adversaire au sol dans la zone de contact.
     Iels doivent relâcher leur prise dès que celle-ci dépasse ou descend en dessous de cette zone.
     Lors d'un combat de coureur·euse·s, il est interdit aux coureur·euse·s :
-    - de prendre l'avantage en infligeant des blessures ;
+    - de blesser ou chercher à blesser pour obtenir un avantage l'avantage ;
     - de frapper leur adversaire avec des coups de poing ou de pied, ou de l'attaquer en dehors de la zone de contact autorisée ;
     - de projeter la·le coureur·euse·s adverse de manière à ce que ses deux pieds quittent le sol ou qu'iel atterrisse la tête ou le torse en premier ;
     - d'utiliser un effet de levier en déplaçant ses membres au-delà du point d’arrêt de leurs articulations ;
     - de tirer brusquement sur les membres (par exemple, en arrêtant un adversaire en course par l'avant-bras) ;
-    - de pousser un adversaire en courant ;
+    - de bousculer la·e coureur·euse adverse qui court ;
     - de foncer sur un adversaire en courant ou en lui sautant dessus ;
     - de tirer un adversaire par ses vêtements.
     Si les deux équipes sont d'accord avant le début de la partie, des règles alternatives de combat en course peuvent être établies.

@@ -290,7 +290,7 @@
     ),
     example:(
       de :[Nahpompfen bestehen aus einem Kernstab und angemessenen Polsterungen.],
-      en :[Close-up Pompfens consist of a core rod and appropriate padding.],
+      en :[Close-up Pompfen consist of a core rod and appropriate padding.],
       fr :[Les pompfen droits sont #strong[composés] d'une tige centrale et d'un rembourrage approprié.],
     ),
   ),
@@ -307,8 +307,8 @@
     ),
     example:(
       de :[Nahpompfen setzen sich aus Griffflächen und rund gepolsterten Schlagflächen zusammen.],
-      en :[Close-up pompfens are composed of gripping surfaces and round, padded striking surfaces.],
-      fr :[Les pompfens droits  sont composés de surfaces de préhension et de surfaces de frappe rondes et rembourrées.],
+      en :[Close-up pompfen are composed of gripping surfaces and round, padded striking surfaces.],
+      fr :[Les pompfen droits  sont composés de surfaces de préhension et de surfaces de frappe rondes et rembourrées.],
     ),
   ),
   divide :(

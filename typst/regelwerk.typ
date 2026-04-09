@@ -189,9 +189,16 @@
 
 // Branch: Test RW 2026 23.12.2025, zuletzt bearbeitet von Helene
 
+#let main_title = (
+  de :[],
+   en :[German Rulebook : English Translation],
+   fr :[Règlement allemand : Traduction Française],
+).at(lang)
+
 #{
     set page(margin: 0cm)
     image("images/cover_front.jpg")
+    place(center + horizon,dy:113pt, text(black, size: 25pt, main_title))
 }
 
 #pagebreak()

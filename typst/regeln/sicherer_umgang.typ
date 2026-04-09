@@ -23,7 +23,7 @@
     Les pompfeur·euse·s sont responsables de la sécurité et de la bonne manipulation de leurs pompfe.
     Iels peuvent dépasser les autres joueur·euse·s en courant sans ralentir et les toucher s'il y a suffisamment d'espace.
     Iels peuvent sauter à portée des autres joueur·euse·s s'ils manipulent leurs pompfe avec précaution et qu'aucun contact physique n'a lieu.
-    Il est interdit aux pompfeur·euse·s de lancer leur propre pompfe. Les enforceur·euse·s n'ont pas le droit d'effectuer des touches en courant à pleine vitesse ou en sautant vers l'avant. Il est interdit aux joueur·euse·s de chaîne de tirer sur celle-ci si elle est enroulée autour d'un·e joueur·euse, ni de la faire tournoyer si un pompfe est enroulé dedans. Les joueur·euse·s de chaîne doivent dégager soigneusement leur chaîne de tout·e joueur·euse qui y est emmêlé·e.
+    Il est interdit aux pompfeur·euse·s de lancer leur propre pompfe. Les enforceur·euse·s n'ont pas le droit d'effectuer des touches en courant à pleine vitesse ou en sautant avec leur pompfe vers l'avant. Il est interdit aux joueur·euse·s de chaîne de tirer sur celle-ci si elle est enroulée autour d'un·e joueur·euse, ni de la faire tournoyer si un pompfe est enroulé dedans. Les joueur·euse·s de chaîne doivent dégager soigneusement leur chaîne de tout·e joueur·euse qui y est emmêlé·e.
   ],
 ).at(lang)
 

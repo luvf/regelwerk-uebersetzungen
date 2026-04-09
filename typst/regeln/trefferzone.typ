@@ -26,7 +26,7 @@
     La zone de la tête comprend la tête et le cou.
 
     Pour tou·te·s les joueur·euse·s, le corps entier, vêtements compris mais tête exclue, constitue la zone de touche.
-    Pour les coureur·euse·s, si leurs mains touchent le jugg, celui-ci devient également une zone cible.
+    Pour les coureur·euse·s, si leurs mains touchent le jugg, celui-ci devient également une zone de touche.
     La main d'un·e enforceur·euse n'est une zone cible que si elle ne touche pas le pompfe manié.
     Les poignets font partie de la zone de touche.
   ],

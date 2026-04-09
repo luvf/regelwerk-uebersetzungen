@@ -24,9 +24,9 @@
     Un coup porté est valide si aucune des conditions suivantes n'est remplie :
       - la·le joueur·euse touché·e est inactif·ve ;
       - le coup porté a lieu en dehors de la zone de touche ;
-      - la·le joueur·euse est touché·e d'abord à la tête puis dans la zone de touche, en un seul mouvement d'arme.
+      - la·le joueur·euse est touché·e d'abord sur la zone de la tête puis dans la zone de touche, en un seul mouvement de pompfe.
   
-  Si un·e joueur·euse est touché·e d'abord sur une zone de touche puis à la tête, en un seul mouvement, 
+  Si un·e joueur·euse est touché·e d'abord sur une zone de touche puis sur la zone de la tête, en un seul mouvement, 
   le coup porté est valide.
   ],
 ).at(lang)

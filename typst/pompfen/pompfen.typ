@@ -26,7 +26,7 @@
 		Les chaînes et les pompfen à courte portée permettent aux joueur·euse·s de toucher les autres joueur·euse·s.
 		Les pompfen droits peuvent également servir à épingler les autres joueur·euse·s.
 		Le jugg peut être touché et déplacé avec tous les pompfen.
-		Les pompfens ne doivent pas avoir d'arêtes rigides.
+		Les pompfen ne doivent pas avoir d'arêtes rigides.
 
 		Seuls des pompfen conformes aux règles peuvent être utilisés.
 		Tous les pompfen doivent être vérifiés avant chaque match afin de s'assurer de leur conformité aux règles en vigueur.
